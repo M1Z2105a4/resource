@@ -1,0 +1,154 @@
+{
+  "schema": "ghost.subscription.bundle",
+  "version": "1.0.0",
+  "bundleId": "ghost.test.all-resources",
+  "title": "GhostBrowser 全部资源测试订阅",
+  "revision": 1,
+  "updatedAt": "2026-05-12T00:00:00Z",
+  "ttlHours": 24,
+  "defaultConflictPolicy": "bundleWins",
+  "resources": [
+    {
+      "kind": "site",
+      "id": "site-video-demo",
+      "action": "upsert",
+      "payload": {
+        "id": "11111111-1111-4111-8111-111111111111",
+        "name": "测试视频源",
+        "urlTemplate": "https://example.com/video/search?q={k}",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageParamName": "page",
+        "pageStart": 1,
+        "pageCount": 2,
+        "listSelector": ".result-item",
+        "titleSelector": ".title",
+        "linkSelector": "a@href",
+        "thumbSelector": "img@src",
+        "origin": "shared"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site-novel-demo",
+      "action": "upsert",
+      "payload": {
+        "id": "22222222-2222-4222-8222-222222222222",
+        "name": "测试小说源",
+        "urlTemplate": "https://example.com/novel/search?keyword={k}",
+        "isEnabled": true,
+        "targetType": "novel",
+        "parserType": "html",
+        "method": "GET",
+        "listSelector": ".book",
+        "titleSelector": ".book-title",
+        "linkSelector": "a@href",
+        "origin": "shared"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site-comic-demo",
+      "action": "upsert",
+      "payload": {
+        "id": "33333333-3333-4333-8333-333333333333",
+        "name": "测试漫画源",
+        "urlTemplate": "https://example.com/comic/search/{k}",
+        "isEnabled": true,
+        "targetType": "comic",
+        "parserType": "html",
+        "method": "GET",
+        "listSelector": ".comic-card",
+        "titleSelector": ".name",
+        "linkSelector": "a@href",
+        "thumbSelector": "img@data-src",
+        "origin": "shared"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site-community-demo",
+      "action": "upsert",
+      "payload": {
+        "id": "44444444-4444-4444-8444-444444444444",
+        "name": "测试论坛源",
+        "urlTemplate": "https://example.com/forum/search?q={k}",
+        "isEnabled": true,
+        "targetType": "community",
+        "parserType": "html",
+        "method": "GET",
+        "listSelector": ".thread",
+        "titleSelector": ".thread-title",
+        "linkSelector": "a@href",
+        "authorSelector": ".author",
+        "replyCountSelector": ".replies",
+        "timestampSelector": ".time",
+        "sectionSelector": ".section",
+        "origin": "shared"
+      }
+    },
+    {
+      "kind": "lexicon",
+      "id": "lexicon-test-hot",
+      "action": "upsert",
+      "payload": {
+        "tag": "测试热词",
+        "keywords": [
+          "测试资源",
+          "高清测试",
+          "订阅测试"
+        ],
+        "weight": 1.5,
+        "types": [
+          "video",
+          "novel",
+          "comic",
+          "community"
+        ]
+      }
+    },
+    {
+      "kind": "radarKeyword",
+      "id": "radar-keyword-ai-test",
+      "action": "upsert",
+      "payload": {
+        "id": "55555555-5555-4555-8555-555555555555",
+        "term": "AI订阅测试",
+        "aliases": [
+          "人工智能测试",
+          "模型更新"
+        ],
+        "category": "ai",
+        "weight": 1.2,
+        "matchMode": "contains",
+        "riskLevel": "medium",
+        "isRisk": false,
+        "group": "测试分组",
+        "enabled": true
+      }
+    },
+    {
+      "kind": "radarSource",
+      "id": "radar-source-test-rss",
+      "action": "upsert",
+      "payload": {
+        "id": "66666666-6666-4666-8666-666666666666",
+        "name": "测试 RSS 源",
+        "url": "https://example.com/rss.xml",
+        "enabled": true,
+        "isCustom": true,
+        "trustScore": 1.0,
+        "category": "tech",
+        "region": "global",
+        "language": "mixed",
+        "sourceType": "news",
+        "tags": [
+          "test",
+          "subscription"
+        ]
+      }
+    }
+  ]
+}
