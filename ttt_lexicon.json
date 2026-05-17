@@ -1,0 +1,11251 @@
+{
+  "schema": "ghost.subscription.bundle",
+  "version": "1.0.0",
+  "bundleId": "ghost.lexicon.resources",
+  "title": "GhostBrowser-lexicon",
+  "revision": 1,
+  "updatedAt": "2026-05-12T00:00:00Z",
+  "ttlHours": 24,
+  "defaultConflictPolicy": "bundleWins",
+  "resources":[
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5ab3d10ed8",
+    "action": "upsert",
+    "payload": {
+      "tag": "兄妹",
+      "category": "亲属",
+      "keywords": [
+        "brother sister",
+        "哥哥",
+        "妹妹",
+        "近親相姦",
+        "兄妹"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b69228bd60",
+    "action": "upsert",
+    "payload": {
+      "tag": "公公",
+      "category": "亲属",
+      "keywords": [
+        "義父",
+        "father-in-law",
+        "公公"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-04cceae9e5",
+    "action": "upsert",
+    "payload": {
+      "tag": "姐夫",
+      "category": "亲属",
+      "keywords": [
+        "姐夫",
+        "brother-in-law",
+        "義兄"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2d35b91897",
+    "action": "upsert",
+    "payload": {
+      "tag": "姐妹",
+      "category": "亲属",
+      "keywords": [
+        "亲姐妹",
+        "姐姐",
+        "お姉ちゃん",
+        "姉妹",
+        "妹妹",
+        "姐妹",
+        "sisters",
+        "sister"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-033e1fb01c",
+    "action": "upsert",
+    "payload": {
+      "tag": "姐姐",
+      "category": "亲属",
+      "keywords": [
+        "姐姐",
+        "姉",
+        "older sister",
+        "お姉さん",
+        "sister"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1d869e2314",
+    "action": "upsert",
+    "payload": {
+      "tag": "姐弟",
+      "category": "亲属",
+      "keywords": [
+        "弟弟",
+        "sister brother",
+        "姐弟",
+        "近親相姦",
+        "姉弟"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f656ce4352",
+    "action": "upsert",
+    "payload": {
+      "tag": "婶婶",
+      "category": "亲属",
+      "keywords": [
+        "婶婶",
+        "おば",
+        "叔母",
+        "aunt"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-af39627ee3",
+    "action": "upsert",
+    "payload": {
+      "tag": "嫂子",
+      "category": "亲属",
+      "keywords": [
+        "義妹",
+        "嫂子",
+        "sister-in-law",
+        "弟媳",
+        "義姉"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-63cbed66ab",
+    "action": "upsert",
+    "payload": {
+      "tag": "小姨子",
+      "category": "亲属",
+      "keywords": [
+        "義妹",
+        "小姨子",
+        "sister-in-law",
+        "wife's sister"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9354af7596",
+    "action": "upsert",
+    "payload": {
+      "tag": "岳母",
+      "category": "亲属",
+      "keywords": [
+        "義母",
+        "岳母",
+        "丈母娘",
+        "mother-in-law"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-76ad10dd38",
+    "action": "upsert",
+    "payload": {
+      "tag": "岳父",
+      "category": "亲属",
+      "keywords": [
+        "岳父",
+        "義父",
+        "father-in-law"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c69bf96f7e",
+    "action": "upsert",
+    "payload": {
+      "tag": "母子",
+      "category": "亲属",
+      "keywords": [
+        "近親相姦",
+        "mother son",
+        "母子",
+        "妈妈"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3d02d218a0",
+    "action": "upsert",
+    "payload": {
+      "tag": "父女",
+      "category": "亲属",
+      "keywords": [
+        "父娘",
+        "爸爸",
+        "父女",
+        "近親相姦",
+        "father daughter"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-602113de76",
+    "action": "upsert",
+    "payload": {
+      "tag": "继女",
+      "category": "亲属",
+      "keywords": [
+        "stepdaughter",
+        "義理の娘",
+        "继女",
+        "継娘"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a2fa470964",
+    "action": "upsert",
+    "payload": {
+      "tag": "继母",
+      "category": "亲属",
+      "keywords": [
+        "stepmother",
+        "小妈",
+        "继母",
+        "stepmom",
+        "后妈",
+        "義母",
+        "継母"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4342155090",
+    "action": "upsert",
+    "payload": {
+      "tag": "表亲",
+      "category": "亲属",
+      "keywords": [
+        "表姐",
+        "従姉妹",
+        "堂姐",
+        "表妹",
+        "従兄弟",
+        "堂妹",
+        "表亲",
+        "cousin",
+        "堂兄妹"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5b61a1b298",
+    "action": "upsert",
+    "payload": {
+      "tag": "AR",
+      "category": "其他",
+      "keywords": [
+        "ar",
+        "augmented reality",
+        "增强现实",
+        "AR"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5f61baeb77",
+    "action": "upsert",
+    "payload": {
+      "tag": "ASMR",
+      "category": "其他",
+      "keywords": [
+        "audio",
+        "音声",
+        "广播剧",
+        "シチュエーションCD",
+        "ASMR",
+        "助眠",
+        "whisper",
+        "バイノーラル",
+        "心跳",
+        "binaural",
+        "娇喘录音",
+        "囁き",
+        "audio roleplay",
+        "低语",
+        "舔耳",
+        "音フェチ",
+        "双声道",
+        "音声作品",
+        "ear licking",
+        "耳舐め",
+        "音频",
+        "同人音声"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9306aaeac9",
+    "action": "upsert",
+    "payload": {
+      "tag": "CG集",
+      "category": "其他",
+      "keywords": [
+        "插画",
+        "CG集",
+        "CG",
+        "画集"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d026936df1",
+    "action": "upsert",
+    "payload": {
+      "tag": "MMD",
+      "category": "其他",
+      "keywords": [
+        "MikuMikuDance",
+        "Iwara",
+        "3D",
+        "3D动画",
+        "MMD"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ef8a9f7513",
+    "action": "upsert",
+    "payload": {
+      "tag": "VR",
+      "category": "其他",
+      "keywords": [
+        "SFM",
+        "vr",
+        "3Dアニメ",
+        "virtual reality",
+        "虚拟现实",
+        "VR",
+        "3d animation",
+        "MMD",
+        "次世代",
+        "3d video",
+        "バーチャルリアリティ",
+        "CG",
+        "全景",
+        "沉浸式",
+        "Blender",
+        "3D动画",
+        "3D"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2886c5dba5",
+    "action": "upsert",
+    "payload": {
+      "tag": "不露脸",
+      "category": "其他",
+      "keywords": [
+        "顔なし",
+        "顔隠し",
+        "hidden face",
+        "no face",
+        "不露脸"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6e4371f593",
+    "action": "upsert",
+    "payload": {
+      "tag": "东南亚",
+      "category": "其他",
+      "keywords": [
+        "东南亚",
+        "越南",
+        "thailand",
+        "vietnam",
+        "泰国",
+        "ベトナム",
+        "vietnamese",
+        "タイ",
+        "thai"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-613849e5bf",
+    "action": "upsert",
+    "payload": {
+      "tag": "二次元",
+      "category": "其他",
+      "keywords": [
+        "二次元",
+        "anime character",
+        "动画人物",
+        "アニメキャラ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-94cf96ecd1",
+    "action": "upsert",
+    "payload": {
+      "tag": "偷拍",
+      "category": "其他",
+      "keywords": [
+        "探花",
+        "voyeur",
+        "偷拍",
+        "マジックミラー",
+        "ハメ撮り",
+        "real shot",
+        "真实",
+        "hidden cam",
+        "selfie",
+        "91",
+        "原生态",
+        "amateur real",
+        "素人实战",
+        "隠し撮り",
+        "国产实拍",
+        "街拍",
+        "实拍",
+        "voyeurism",
+        "homemade",
+        "Pornhub",
+        "real",
+        "偷欢",
+        "spycam",
+        "不倫",
+        "盗撮",
+        "隐藏摄像头",
+        "自拍",
+        "実写",
+        "affair",
+        "自撮り",
+        "OnlyFans"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2f9ef83dcb",
+    "action": "upsert",
+    "payload": {
+      "tag": "偷窥",
+      "category": "其他",
+      "keywords": [
+        "覗き",
+        "偷窥",
+        "breast peeping",
+        "peeping",
+        "チラ見",
+        "peeping tom",
+        "门缝偷看",
+        "voyeur",
+        "乳房偷窺"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3f00cc1b30",
+    "action": "upsert",
+    "payload": {
+      "tag": "原创",
+      "category": "其他",
+      "keywords": [
+        "amateur",
+        "自作",
+        "オリジナル",
+        "original",
+        "self-made",
+        "原创"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f06972a506",
+    "action": "upsert",
+    "payload": {
+      "tag": "台湾",
+      "category": "其他",
+      "keywords": [
+        "taiwanese",
+        "taiwan",
+        "台湾"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ad4e91275c",
+    "action": "upsert",
+    "payload": {
+      "tag": "合集",
+      "category": "其他",
+      "keywords": [
+        "エロ本",
+        "compilation",
+        "collection",
+        "hentai",
+        "image pack",
+        "合集",
+        "漫画",
+        "大合集",
+        "系列",
+        "长篇",
+        "本子",
+        "pack",
+        "图包",
+        "里番",
+        "剧场版",
+        "CG集",
+        "打包",
+        "まとめ",
+        "同人志",
+        "CG",
+        "短篇",
+        "full series",
+        "cg set",
+        "manga",
+        "エロアニメ",
+        "同人誌",
+        "総集編",
+        "裏番",
+        "全集",
+        "doujinshi",
+        "詰め合わせ",
+        "总集篇",
+        "OVA"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f4017249af",
+    "action": "upsert",
+    "payload": {
+      "tag": "同人志",
+      "category": "其他",
+      "keywords": [
+        "同人志",
+        "本子",
+        "doujinshi",
+        "同人本",
+        "同人誌",
+        "漫画本"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4316454642",
+    "action": "upsert",
+    "payload": {
+      "tag": "国产",
+      "category": "其他",
+      "keywords": [
+        "china",
+        "chinese",
+        "大陆",
+        "国产",
+        "中国"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-04673d563e",
+    "action": "upsert",
+    "payload": {
+      "tag": "大保健",
+      "category": "其他",
+      "keywords": [
+        "風俗",
+        "マッサージ",
+        "happy ending",
+        "大保健",
+        "ソープ",
+        "massage parlor"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c0a8015472",
+    "action": "upsert",
+    "payload": {
+      "tag": "套图",
+      "category": "其他",
+      "keywords": [
+        "グラビア",
+        "photo set",
+        "画像セット",
+        "画像集",
+        "套图",
+        "image set"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-78f050f064",
+    "action": "upsert",
+    "payload": {
+      "tag": "探花",
+      "category": "其他",
+      "keywords": [
+        "探花",
+        "tanhua",
+        "date spycam",
+        "hidden cam"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f7ff6f930c",
+    "action": "upsert",
+    "payload": {
+      "tag": "无声",
+      "category": "其他",
+      "keywords": [
+        "無音",
+        "无声",
+        "muted",
+        "mute"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3573c5f2af",
+    "action": "upsert",
+    "payload": {
+      "tag": "无码",
+      "category": "其他",
+      "keywords": [
+        "破解版",
+        "内部流出",
+        "decensored",
+        "モザイク破壊",
+        "无修正",
+        "leaked",
+        "无码",
+        "no mosaic",
+        "步兵",
+        "泄露版",
+        "解密",
+        "無修正",
+        "流出",
+        "破解",
+        "uncensored",
+        "raw",
+        "ノーモザイク"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4dbed2e657",
+    "action": "upsert",
+    "payload": {
+      "tag": "日本",
+      "category": "其他",
+      "keywords": [
+        "日本",
+        "japan"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-706284e7cb",
+    "action": "upsert",
+    "payload": {
+      "tag": "日韩",
+      "category": "其他",
+      "keywords": [
+        "アジア",
+        "日韩",
+        "asian"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0abbe69ee5",
+    "action": "upsert",
+    "payload": {
+      "tag": "有声",
+      "category": "其他",
+      "keywords": [
+        "有声",
+        "sound",
+        "音声あり",
+        "audio"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5e88b45a00",
+    "action": "upsert",
+    "payload": {
+      "tag": "有码",
+      "category": "其他",
+      "keywords": [
+        "mosaic",
+        "有修正",
+        "モザイク",
+        "censored",
+        "薄码",
+        "骑兵",
+        "有码",
+        "有码片",
+        "厚码",
+        "修正版",
+        "打码"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0f068006fd",
+    "action": "upsert",
+    "payload": {
+      "tag": "欧美",
+      "category": "其他",
+      "keywords": [
+        "欧米",
+        "洋モノ",
+        "欧美",
+        "western"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6330a35437",
+    "action": "upsert",
+    "payload": {
+      "tag": "泄露",
+      "category": "其他",
+      "keywords": [
+        "泄露",
+        "スキャンダル",
+        "leaked",
+        "scandal",
+        "leaked online",
+        "黑料",
+        "流出",
+        "网曝",
+        "ネット晒し"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-18928bb88c",
+    "action": "upsert",
+    "payload": {
+      "tag": "游戏CG",
+      "category": "其他",
+      "keywords": [
+        "エロゲ",
+        "黄游",
+        "游戏CG",
+        "galgame",
+        "game cg"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9aff624153",
+    "action": "upsert",
+    "payload": {
+      "tag": "监控",
+      "category": "其他",
+      "keywords": [
+        "cctv",
+        "surveillance",
+        "隐藏摄像头",
+        "监控",
+        "監視カメラ",
+        "监控录像"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7bbe8e2fc7",
+    "action": "upsert",
+    "payload": {
+      "tag": "直播",
+      "category": "其他",
+      "keywords": [
+        "直播回放",
+        "stream archive",
+        "ログ",
+        "直播",
+        "生配信",
+        "live stream"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-23ccc0eb0d",
+    "action": "upsert",
+    "payload": {
+      "tag": "第一视角",
+      "category": "其他",
+      "keywords": [
+        "POV",
+        "主観視点",
+        "主观视角",
+        "first person",
+        "pov",
+        "代入感",
+        "point of view",
+        "第一人称",
+        "第一视角",
+        "主観",
+        "男友视角"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2d17cf301e",
+    "action": "upsert",
+    "payload": {
+      "tag": "精选",
+      "category": "其他",
+      "keywords": [
+        "featured",
+        "selection",
+        "best of",
+        "精选",
+        "特集",
+        "ベスト",
+        "厳選"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f649792f7c",
+    "action": "upsert",
+    "payload": {
+      "tag": "自拍",
+      "category": "其他",
+      "keywords": [
+        "selfie",
+        "homemade",
+        "self-shot",
+        "自拍",
+        "自撮り"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b4c99d69ff",
+    "action": "upsert",
+    "payload": {
+      "tag": "街拍",
+      "category": "其他",
+      "keywords": [
+        "street snap",
+        "盗撮",
+        "street photography",
+        "パンチラ",
+        "街拍",
+        "ストリート",
+        "街角"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2420175f9a",
+    "action": "upsert",
+    "payload": {
+      "tag": "露脸",
+      "category": "其他",
+      "keywords": [
+        "visible face",
+        "顔出し",
+        "不打码",
+        "露脸",
+        "真人露脸",
+        "showing face",
+        "face reveal"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-09540e050d",
+    "action": "upsert",
+    "payload": {
+      "tag": "韩国",
+      "category": "其他",
+      "keywords": [
+        "korean",
+        "korea",
+        "韓国",
+        "韩国"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f3cec87375",
+    "action": "upsert",
+    "payload": {
+      "tag": "首发",
+      "category": "其他",
+      "keywords": [
+        "初公開",
+        "首发",
+        "premiere"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-18204185d3",
+    "action": "upsert",
+    "payload": {
+      "tag": "寝取",
+      "category": "剧情",
+      "keywords": [
+        "NTL",
+        "netori",
+        "主动绿人",
+        "寝取り"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fef099d912",
+    "action": "upsert",
+    "payload": {
+      "tag": "NTR",
+      "category": "剧情",
+      "keywords": [
+        "绿帽",
+        "cuckold",
+        "黄毛",
+        "戴绿帽",
+        "間男",
+        "苦主",
+        "寝取",
+        "ntr",
+        "绿帽子",
+        "寝取られ",
+        "cuck",
+        "ネトリ",
+        "牛头人",
+        "NTR",
+        "被绿",
+        "netorare",
+        "托卵"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-62187a18ea",
+    "action": "upsert",
+    "payload": {
+      "tag": "下克上",
+      "category": "剧情",
+      "keywords": [
+        "subordinates dominating bosses",
+        "下克上",
+        "逆袭",
+        "以下犯上"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-42c38d0c93",
+    "action": "upsert",
+    "payload": {
+      "tag": "乱伦",
+      "category": "剧情",
+      "keywords": [
+        "近親相姦",
+        "乱伦",
+        "incest",
+        "近親"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0a7d78e9d9",
+    "action": "upsert",
+    "payload": {
+      "tag": "仙人跳",
+      "category": "剧情",
+      "keywords": [
+        "badger game",
+        "恐喝",
+        "敲诈",
+        "套路",
+        "仙人跳"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4d0604914e",
+    "action": "upsert",
+    "payload": {
+      "tag": "伦理",
+      "category": "剧情",
+      "keywords": [
+        "倫理",
+        "ethics",
+        "伦理",
+        "incest",
+        "taboo",
+        "近親"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f76004ad2b",
+    "action": "upsert",
+    "payload": {
+      "tag": "借种",
+      "category": "剧情",
+      "keywords": [
+        "種付け",
+        "借种",
+        "breeding",
+        "子作り",
+        "seed borrowing"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9313851405",
+    "action": "upsert",
+    "payload": {
+      "tag": "偷情",
+      "category": "剧情",
+      "keywords": [
+        "密会",
+        "情事",
+        "secret affair",
+        "偷情",
+        "affair",
+        "secret lover"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ff7a1e12e7",
+    "action": "upsert",
+    "payload": {
+      "tag": "催眠",
+      "category": "剧情",
+      "keywords": [
+        "洗脳",
+        "hypnosis",
+        "常识改变",
+        "常識改変",
+        "悪堕ち",
+        "催眠",
+        "恶堕",
+        "洗脑",
+        "精神控制",
+        "精神支配",
+        "精神破坏",
+        "mind break",
+        "洗脑堕落",
+        "mind control"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b53ddcb81c",
+    "action": "upsert",
+    "payload": {
+      "tag": "催眠暗示",
+      "category": "剧情",
+      "keywords": [
+        "洗脑",
+        "常识改变",
+        "心理暗示",
+        "暗示",
+        "催眠暗示"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0ab02a08f9",
+    "action": "upsert",
+    "payload": {
+      "tag": "出轨",
+      "category": "剧情",
+      "keywords": [
+        "出轨",
+        "戴绿帽",
+        "daytime affair",
+        "不伦",
+        "cheating",
+        "浮気",
+        "红杏出墙",
+        "劈腿",
+        "affair",
+        "平日昼顔妻",
+        "不倫",
+        "外遇",
+        "白天出轨",
+        "infidelity",
+        "偷情"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c34a3c4914",
+    "action": "upsert",
+    "payload": {
+      "tag": "夫目前犯",
+      "category": "剧情",
+      "keywords": [
+        "cuckolding in front of husband",
+        "夫目前犯",
+        "夫の目の前で",
+        "ntr in front of husband",
+        "夫の目の前"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-31e69f771e",
+    "action": "upsert",
+    "payload": {
+      "tag": "奇幻魔法",
+      "category": "剧情",
+      "keywords": [
+        "神话",
+        "转生",
+        "succubus",
+        "ファンタジー",
+        "精灵",
+        "异世界",
+        "穿越",
+        "サキュバス",
+        "奇幻",
+        "fantasy",
+        "魅魔",
+        "モンスター娘",
+        "玄幻",
+        "monster girl",
+        "magic",
+        "エルフ",
+        "異世界",
+        "魔法",
+        "龙族",
+        "dragon",
+        "魔物娘",
+        "elf",
+        "兽娘",
+        "奇幻魔法",
+        "isekai",
+        "修仙",
+        "cultivation"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cb1f7d20a4",
+    "action": "upsert",
+    "payload": {
+      "tag": "家族",
+      "category": "剧情",
+      "keywords": [
+        "family",
+        "家族"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8911658f7a",
+    "action": "upsert",
+    "payload": {
+      "tag": "异世界",
+      "category": "剧情",
+      "keywords": [
+        "異世界",
+        "isekai",
+        "异世界"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cc2857da53",
+    "action": "upsert",
+    "payload": {
+      "tag": "异种奸",
+      "category": "剧情",
+      "keywords": [
+        "异种奸",
+        "interspecies",
+        "異種姦",
+        "人兽"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e52cc49a4b",
+    "action": "upsert",
+    "payload": {
+      "tag": "强迫",
+      "category": "剧情",
+      "keywords": [
+        "强迫",
+        "强制",
+        "強制",
+        "威胁",
+        "把柄",
+        "forced",
+        "胁迫",
+        "强推",
+        "逼迫",
+        "blackmail"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-22ba1ed2ad",
+    "action": "upsert",
+    "payload": {
+      "tag": "恋乳癖",
+      "category": "剧情",
+      "keywords": [
+        "恋乳癖",
+        "乳フェチ",
+        "巨乳好き",
+        "恋乳",
+        "breast fetish"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-22f0afd97f",
+    "action": "upsert",
+    "payload": {
+      "tag": "恋物癖",
+      "category": "剧情",
+      "keywords": [
+        "フェティッシュ",
+        "恋物",
+        "恋物癖",
+        "fetish",
+        "フェチ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6c084185ca",
+    "action": "upsert",
+    "payload": {
+      "tag": "恋足",
+      "category": "剧情",
+      "keywords": [
+        "foot fetish",
+        "足控",
+        "恋足",
+        "足フェチ",
+        "足指",
+        "脚底",
+        "脚趾",
+        "soles",
+        "toes",
+        "足裏"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d15cf2d97b",
+    "action": "upsert",
+    "payload": {
+      "tag": "情侣",
+      "category": "剧情",
+      "keywords": [
+        "情侣",
+        "couple",
+        "カップル"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c849f9c638",
+    "action": "upsert",
+    "payload": {
+      "tag": "援交",
+      "category": "剧情",
+      "keywords": [
+        "援交",
+        "enjo-kosai",
+        "援助交際",
+        "compensated dating",
+        "円光"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2f5aa57dfe",
+    "action": "upsert",
+    "payload": {
+      "tag": "搞基",
+      "category": "剧情",
+      "keywords": [
+        "基佬",
+        "gay",
+        "蔷薇",
+        "BL",
+        "男同",
+        "yaoi",
+        "搞基",
+        "ゲイ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-33fdacf063",
+    "action": "upsert",
+    "payload": {
+      "tag": "时停",
+      "category": "剧情",
+      "keywords": [
+        "time stop",
+        "时间停止",
+        "时停",
+        "時間停止",
+        "The World"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c0b0254be1",
+    "action": "upsert",
+    "payload": {
+      "tag": "时间停止",
+      "category": "剧情",
+      "keywords": [
+        "时间停止",
+        "時間停止",
+        "time stop"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-377af7d5bc",
+    "action": "upsert",
+    "payload": {
+      "tag": "洗脑",
+      "category": "剧情",
+      "keywords": [
+        "洗脳",
+        "洗脑",
+        "常识改写",
+        "brainwashing"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fafc99f400",
+    "action": "upsert",
+    "payload": {
+      "tag": "淫乱",
+      "category": "剧情",
+      "keywords": [
+        "slutty",
+        "淫乱",
+        "lewd",
+        "promiscuity"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-481ef23c28",
+    "action": "upsert",
+    "payload": {
+      "tag": "灌醉",
+      "category": "剧情",
+      "keywords": [
+        "灌醉",
+        "酔っ払い",
+        "泥酔",
+        "drunk"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2ec8336f8e",
+    "action": "upsert",
+    "payload": {
+      "tag": "猎奇重口",
+      "category": "剧情",
+      "keywords": [
+        "ホラー",
+        "snuff",
+        "gore",
+        "monster",
+        "人兽",
+        "bestiality",
+        "食尸鬼",
+        "异形",
+        "ゾンビ",
+        "重口味",
+        "重口",
+        "恐怖",
+        "zombie",
+        "猎奇重口",
+        "猎奇",
+        "グロ",
+        "血腥",
+        "獣姦",
+        "horror",
+        "hardcore",
+        "異種姦",
+        "スカトロ",
+        "猟奇",
+        "guro",
+        "スプラッタ",
+        "extreme",
+        "丧尸",
+        "异种奸",
+        "怪谈"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1138cf90bd",
+    "action": "upsert",
+    "payload": {
+      "tag": "百合",
+      "category": "剧情",
+      "keywords": [
+        "lesbian",
+        "拉拉",
+        "百合",
+        "女同",
+        "yuri",
+        "レズ",
+        "蕾丝边"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d30b908791",
+    "action": "upsert",
+    "payload": {
+      "tag": "禁忌",
+      "category": "剧情",
+      "keywords": [
+        "タブー",
+        "禁断",
+        "forbidden",
+        "taboo",
+        "禁忌"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e977d1d3f6",
+    "action": "upsert",
+    "payload": {
+      "tag": "科幻未来",
+      "category": "剧情",
+      "keywords": [
+        "赛博朋克",
+        "mecha",
+        "ロボット",
+        "触手",
+        "科幻",
+        "robot",
+        "alien",
+        "メカ",
+        "tentacles",
+        "サイバーパンク",
+        "外星人",
+        "废土",
+        "科幻未来",
+        "post-apocalyptic",
+        "末世",
+        "SF",
+        "机甲",
+        "sci-fi",
+        "android",
+        "近未来",
+        "cyberpunk",
+        "アンドロイド",
+        "未来世界",
+        "机器人",
+        "生化",
+        "克隆人"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6966efd638",
+    "action": "upsert",
+    "payload": {
+      "tag": "纯爱",
+      "category": "剧情",
+      "keywords": [
+        "浪漫",
+        "发糖",
+        "日常",
+        "純愛",
+        "sweet",
+        "love",
+        "romance",
+        "温馨",
+        "wholesome",
+        "恋爱",
+        "カップル",
+        "イチャラブ",
+        "vanilla",
+        "纯爱",
+        "couple",
+        "甘々",
+        "恋愛",
+        "两情相悦",
+        "甜美",
+        "情侣"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-73542f63b8",
+    "action": "upsert",
+    "payload": {
+      "tag": "胁迫",
+      "category": "剧情",
+      "keywords": [
+        "胁迫",
+        "blackmail",
+        "脅迫",
+        "coercion"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b737a57ee5",
+    "action": "upsert",
+    "payload": {
+      "tag": "背德",
+      "category": "剧情",
+      "keywords": [
+        "背徳",
+        "背德",
+        "immoral"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-306aa7a783",
+    "action": "upsert",
+    "payload": {
+      "tag": "虫交",
+      "category": "剧情",
+      "keywords": [
+        "虫交",
+        "虫姦",
+        "寄生",
+        "产卵",
+        "虫奸",
+        "insect"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2d174e9773",
+    "action": "upsert",
+    "payload": {
+      "tag": "身体交换",
+      "category": "剧情",
+      "keywords": [
+        "身体交换",
+        "body swap",
+        "身体入れ替わり",
+        "换身"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-601e61e449",
+    "action": "upsert",
+    "payload": {
+      "tag": "近亲",
+      "category": "剧情",
+      "keywords": [
+        "近親相姦",
+        "近亲",
+        "incest"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-71f9ecfccc",
+    "action": "upsert",
+    "payload": {
+      "tag": "隐身",
+      "category": "剧情",
+      "keywords": [
+        "隐身",
+        "透明人",
+        "透明人間",
+        "invisibility"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-68bedb1545",
+    "action": "upsert",
+    "payload": {
+      "tag": "颜控",
+      "category": "剧情",
+      "keywords": [
+        "颜控",
+        "面食い",
+        "face fetish"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c270fc6fc9",
+    "action": "upsert",
+    "payload": {
+      "tag": "仓库",
+      "category": "场景",
+      "keywords": [
+        "倉庫",
+        "仓库",
+        "warehouse"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-70b46ee9e8",
+    "action": "upsert",
+    "payload": {
+      "tag": "公交车",
+      "category": "场景",
+      "keywords": [
+        "公车",
+        "bus",
+        "バス",
+        "公交车",
+        "公交"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a7270284c8",
+    "action": "upsert",
+    "payload": {
+      "tag": "公共交通",
+      "category": "场景",
+      "keywords": [
+        "列车",
+        "バス",
+        "boat",
+        "地铁",
+        "飞机",
+        "bus",
+        "机舱",
+        "游艇",
+        "mile high club",
+        "公交车",
+        "火车",
+        "公共交通",
+        "船舱",
+        "飛行機",
+        "痴漢",
+        "電車",
+        "airplane",
+        "电车",
+        "train"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8f0c10e978",
+    "action": "upsert",
+    "payload": {
+      "tag": "公共场所",
+      "category": "场景",
+      "keywords": [
+        "超市",
+        "厕所",
+        "カラオケ",
+        "图书馆",
+        "网吧",
+        "図書館",
+        "locker room",
+        "公厕",
+        "试衣间",
+        "supermarket",
+        "エレベーター",
+        "映画館",
+        "咖啡厅",
+        "toilet",
+        "商场",
+        "public place",
+        "更衣室",
+        "fitting room",
+        "电梯",
+        "トイレ",
+        "restroom",
+        "KTV",
+        "电影院",
+        "楼道",
+        "公共の場",
+        "cinema",
+        "包厢",
+        "karaoke",
+        "公共场所",
+        "elevator"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-249bdde955",
+    "action": "upsert",
+    "payload": {
+      "tag": "公园",
+      "category": "场景",
+      "keywords": [
+        "park",
+        "公園",
+        "公园"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-93cfc1e110",
+    "action": "upsert",
+    "payload": {
+      "tag": "办公室",
+      "category": "场景",
+      "keywords": [
+        "办公室",
+        "office sex",
+        "office",
+        "办公室play",
+        "オフィスSEX",
+        "オフィス"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-071bd02a36",
+    "action": "upsert",
+    "payload": {
+      "tag": "医院",
+      "category": "场景",
+      "keywords": [
+        "诊所",
+        "医院",
+        "clinic",
+        "hospital",
+        "医务室",
+        "病院",
+        "診察室"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d87186a259",
+    "action": "upsert",
+    "payload": {
+      "tag": "厕所",
+      "category": "场景",
+      "keywords": [
+        "restroom",
+        "トイレ",
+        "厕所",
+        "toilet"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-413b738061",
+    "action": "upsert",
+    "payload": {
+      "tag": "学校",
+      "category": "场景",
+      "keywords": [
+        "宿舍",
+        "会议室",
+        "教室",
+        "warehouse",
+        "lab",
+        "仓库",
+        "实验室",
+        "校长室",
+        "office",
+        "dorm",
+        "gym",
+        "school",
+        "医务室",
+        "学校",
+        "体育馆",
+        "実験室",
+        "厂房",
+        "校园",
+        "倉庫",
+        "体育館",
+        "办公室",
+        "保健室",
+        "classroom",
+        "老板办公室",
+        "オフィス",
+        "campus"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-44fa350a47",
+    "action": "upsert",
+    "payload": {
+      "tag": "密室",
+      "category": "场景",
+      "keywords": [
+        "地下室",
+        "locked room",
+        "escape room",
+        "密室"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a72e297574",
+    "action": "upsert",
+    "payload": {
+      "tag": "居家",
+      "category": "场景",
+      "keywords": [
+        "台所",
+        "阳台",
+        "厨房",
+        "客厅",
+        "balcony",
+        "寝室",
+        "居家",
+        "home",
+        "couch",
+        "ソファー",
+        "ベッド",
+        "bedroom",
+        "自宅",
+        "kitchen",
+        "沙发",
+        "卧室"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f5b953ee8e",
+    "action": "upsert",
+    "payload": {
+      "tag": "屋顶",
+      "category": "场景",
+      "keywords": [
+        "天台",
+        "屋顶",
+        "rooftop",
+        "屋上"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5753820111",
+    "action": "upsert",
+    "payload": {
+      "tag": "废墟",
+      "category": "场景",
+      "keywords": [
+        "废墟",
+        "abandoned building",
+        "废弃建筑",
+        "廃墟",
+        "ruins",
+        "废弃工厂"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-28c2fc3de8",
+    "action": "upsert",
+    "payload": {
+      "tag": "教室",
+      "category": "场景",
+      "keywords": [
+        "classroom",
+        "教室"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3ff14e6645",
+    "action": "upsert",
+    "payload": {
+      "tag": "更衣室",
+      "category": "场景",
+      "keywords": [
+        "更衣室",
+        "locker room"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ca70874fa2",
+    "action": "upsert",
+    "payload": {
+      "tag": "机舱",
+      "category": "场景",
+      "keywords": [
+        "机舱",
+        "airplane",
+        "機内",
+        "airplane cabin"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9175ff522a",
+    "action": "upsert",
+    "payload": {
+      "tag": "楼梯间",
+      "category": "场景",
+      "keywords": [
+        "staircase",
+        "階段",
+        "楼梯间",
+        "stairwell",
+        "安全通道"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6a7ce679ca",
+    "action": "upsert",
+    "payload": {
+      "tag": "泳池",
+      "category": "场景",
+      "keywords": [
+        "pool",
+        "泳池",
+        "プール"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bd804f8945",
+    "action": "upsert",
+    "payload": {
+      "tag": "浴室",
+      "category": "场景",
+      "keywords": [
+        "hot spring",
+        "お風呂",
+        "風呂",
+        "温泉",
+        "浴室温泉",
+        "浴室",
+        "bathroom",
+        "澡堂"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-27b9cdc281",
+    "action": "upsert",
+    "payload": {
+      "tag": "海滩",
+      "category": "场景",
+      "keywords": [
+        "ビーチ",
+        "beach",
+        "泳池",
+        "海滩",
+        "pool",
+        "海边",
+        "沙滩",
+        "天台",
+        "プール",
+        "rooftop",
+        "露台"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-00cc0137ff",
+    "action": "upsert",
+    "payload": {
+      "tag": "温泉",
+      "category": "场景",
+      "keywords": [
+        "hot spring",
+        "温泉宿",
+        "露天风吕",
+        "混浴",
+        "温泉"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4a1636146d",
+    "action": "upsert",
+    "payload": {
+      "tag": "电影院",
+      "category": "场景",
+      "keywords": [
+        "影院",
+        "映画館",
+        "电影院",
+        "cinema",
+        "movie theater"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-61be0b0450",
+    "action": "upsert",
+    "payload": {
+      "tag": "电梯",
+      "category": "场景",
+      "keywords": [
+        "elevator",
+        "电梯",
+        "エレベーター"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b755e65fc9",
+    "action": "upsert",
+    "payload": {
+      "tag": "电车",
+      "category": "场景",
+      "keywords": [
+        "电车",
+        "train",
+        "地下鉄",
+        "電車",
+        "地铁",
+        "subway"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-21332b364a",
+    "action": "upsert",
+    "payload": {
+      "tag": "监控室",
+      "category": "场景",
+      "keywords": [
+        "security room",
+        "警備室",
+        "保安室",
+        "监控室"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1b0caa17d5",
+    "action": "upsert",
+    "payload": {
+      "tag": "网吧",
+      "category": "场景",
+      "keywords": [
+        "ネットカフェ",
+        "网咖",
+        "漫咖",
+        "internet cafe",
+        "网吧"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-97c0741f90",
+    "action": "upsert",
+    "payload": {
+      "tag": "美容院",
+      "category": "场景",
+      "keywords": [
+        "salon",
+        "エステ",
+        "beauty salon",
+        "美容院"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-92c38d1fee",
+    "action": "upsert",
+    "payload": {
+      "tag": "职场",
+      "category": "场景",
+      "keywords": [
+        "办公室",
+        "职场",
+        "office",
+        "オフィス"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-319b1cda99",
+    "action": "upsert",
+    "payload": {
+      "tag": "船舱",
+      "category": "场景",
+      "keywords": [
+        "船内",
+        "船舱",
+        "ship cabin"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fe84787be9",
+    "action": "upsert",
+    "payload": {
+      "tag": "试衣间",
+      "category": "场景",
+      "keywords": [
+        "试衣间",
+        "fitting room",
+        "試着室",
+        "更衣室"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-634f43aef2",
+    "action": "upsert",
+    "payload": {
+      "tag": "调教室",
+      "category": "场景",
+      "keywords": [
+        "playroom",
+        "调教室",
+        "dungeon",
+        "調教室"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ebfea9c84e",
+    "action": "upsert",
+    "payload": {
+      "tag": "车内",
+      "category": "场景",
+      "keywords": [
+        "車内",
+        "车内",
+        "in car"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d3e254e25d",
+    "action": "upsert",
+    "payload": {
+      "tag": "酒吧",
+      "category": "场景",
+      "keywords": [
+        "bar",
+        "酒吧",
+        "夜店",
+        "KTV",
+        "club",
+        "クラブ",
+        "迪厅",
+        "バー"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a48985ec8f",
+    "action": "upsert",
+    "payload": {
+      "tag": "酒店",
+      "category": "场景",
+      "keywords": [
+        "酒店",
+        "旅馆",
+        "爱情公寓",
+        "hotel",
+        "ホテル",
+        "motel",
+        "ラブホ",
+        "旅館",
+        "宾馆",
+        "love hotel",
+        "inn",
+        "开房"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4d6353efd9",
+    "action": "upsert",
+    "payload": {
+      "tag": "野外",
+      "category": "场景",
+      "keywords": [
+        "outdoors",
+        "野外"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7588e9a108",
+    "action": "upsert",
+    "payload": {
+      "tag": "M属性",
+      "category": "属性",
+      "keywords": [
+        "masochist",
+        "マゾ",
+        "ドM",
+        "M属性"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fca5be45bb",
+    "action": "upsert",
+    "payload": {
+      "tag": "S属性",
+      "category": "属性",
+      "keywords": [
+        "S属性",
+        "サド",
+        "sadist",
+        "ドS"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9eb8f47e0f",
+    "action": "upsert",
+    "payload": {
+      "tag": "下垂",
+      "category": "属性",
+      "keywords": [
+        "下垂",
+        "saggy tits",
+        "木瓜奶",
+        "八字奶",
+        "垂れ乳",
+        "離れ乳",
+        "下垂奶",
+        "sagging breasts"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7992521139",
+    "action": "upsert",
+    "payload": {
+      "tag": "丰臀",
+      "category": "属性",
+      "keywords": [
+        "デカ尻",
+        "big ass",
+        "大屁股",
+        "huge ass",
+        "巨尻",
+        "肥臀",
+        "big butt",
+        "丰臀"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-37ad60bcdc",
+    "action": "upsert",
+    "payload": {
+      "tag": "体型",
+      "category": "属性",
+      "keywords": [
+        "娇小",
+        "微胖",
+        "高身長",
+        "スレンダー",
+        "curvy",
+        "chubby",
+        "高挑",
+        "小巧",
+        "丰满",
+        "体型",
+        "苗条",
+        "丰乳肥臀",
+        "ムチムチ",
+        "大洋马",
+        "骨感",
+        "slim",
+        "bbw",
+        "petite",
+        "ぽっちゃり",
+        "九头身",
+        "小柄",
+        "tall",
+        "肉感"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1ac797eb4a",
+    "action": "upsert",
+    "payload": {
+      "tag": "假小子",
+      "category": "属性",
+      "keywords": [
+        "假小子",
+        "ボーイッシュ",
+        "tomboy",
+        "伪郎",
+        "男装丽人"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e3f1124cb5",
+    "action": "upsert",
+    "payload": {
+      "tag": "傲娇",
+      "category": "属性",
+      "keywords": [
+        "傲娇",
+        "tsundere",
+        "ツンデレ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0595693d35",
+    "action": "upsert",
+    "payload": {
+      "tag": "八字奶",
+      "category": "属性",
+      "keywords": [
+        "splayed tits",
+        "八字奶",
+        "splayed breasts",
+        "八字乳",
+        "離れ乳"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-409d04b851",
+    "action": "upsert",
+    "payload": {
+      "tag": "双马尾",
+      "category": "属性",
+      "keywords": [
+        "pigtails",
+        "twintails",
+        "ツインテール",
+        "twin tails",
+        "双马尾"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-be8e3095f2",
+    "action": "upsert",
+    "payload": {
+      "tag": "反差",
+      "category": "属性",
+      "keywords": [
+        "contrast",
+        "反差",
+        "清楚系ビッチ",
+        "ギャップ",
+        "gap moe"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c8ea8eb5d7",
+    "action": "upsert",
+    "payload": {
+      "tag": "可爱",
+      "category": "属性",
+      "keywords": [
+        "cute",
+        "kawaii",
+        "可愛い",
+        "可爱"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7344708c1c",
+    "action": "upsert",
+    "payload": {
+      "tag": "史莱姆",
+      "category": "属性",
+      "keywords": [
+        "slime",
+        "史莱姆",
+        "スライム",
+        "粘液"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e573bb24a4",
+    "action": "upsert",
+    "payload": {
+      "tag": "名器",
+      "category": "属性",
+      "keywords": [
+        "meat curtains",
+        "wet pussy",
+        "名器",
+        "butterfly vulva",
+        "筋マン",
+        "ピンク",
+        "黑木耳",
+        "紧致",
+        "締まり",
+        "butterfly pussy",
+        "蝶々まんこ",
+        "粉嫩",
+        "ビラビラ",
+        "ふっくらまんこ",
+        "pussy",
+        "tight slit",
+        "饅頭マンコ",
+        "一线天",
+        "汁だく",
+        "puffy pussy",
+        "tight pussy",
+        "蝴蝶逼",
+        "puffy vulva",
+        "松弛",
+        "pink pussy",
+        "まんこ",
+        "水多",
+        "馒头逼"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f46e67a86d",
+    "action": "upsert",
+    "payload": {
+      "tag": "处女",
+      "category": "属性",
+      "keywords": [
+        "処女",
+        "virgin",
+        "处女"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e875124048",
+    "action": "upsert",
+    "payload": {
+      "tag": "女装",
+      "category": "属性",
+      "keywords": [
+        "男扮女装",
+        "crossdressing",
+        "女装",
+        "女装大佬"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3e6011c822",
+    "action": "upsert",
+    "payload": {
+      "tag": "孕妇",
+      "category": "属性",
+      "keywords": [
+        "pregnant",
+        "孕妇",
+        "pregnancy",
+        "怀孕",
+        "产妇",
+        "大肚子",
+        "妊婦",
+        "腹ボテ",
+        "大肚"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-75d4916a96",
+    "action": "upsert",
+    "payload": {
+      "tag": "安产型",
+      "category": "属性",
+      "keywords": [
+        "安産型",
+        "安产型",
+        "child-bearing hips"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-795c6eb3ae",
+    "action": "upsert",
+    "payload": {
+      "tag": "少女",
+      "category": "属性",
+      "keywords": [
+        "少女",
+        "teen",
+        "girl",
+        "ヤング",
+        "女孩子",
+        "青春期"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d9cd443c21",
+    "action": "upsert",
+    "payload": {
+      "tag": "屁股",
+      "category": "属性",
+      "keywords": [
+        "屁股",
+        "お尻",
+        "butt"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e683c87d46",
+    "action": "upsert",
+    "payload": {
+      "tag": "巨乳",
+      "category": "属性",
+      "keywords": [
+        "大奶",
+        "g-cup",
+        "huge boobs",
+        "oppai",
+        "巨乳",
+        "巨乳好き",
+        "E cup",
+        "爆乳妻",
+        "e-cup",
+        "F cup",
+        "Fカップ",
+        "H杯",
+        "波霸",
+        "G杯",
+        "large breasts",
+        "丰满",
+        "Dカップ",
+        "豪乳",
+        "d-cup",
+        "Eカップ",
+        "爆乳",
+        "busty",
+        "f-cup",
+        "F杯",
+        "E杯",
+        "大胸",
+        "篮球奶",
+        "Gカップ",
+        "デカパイ",
+        "big tits",
+        "奶牛",
+        "D cup",
+        "G cup",
+        "D杯",
+        "big breasts"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1f97d8be9c",
+    "action": "upsert",
+    "payload": {
+      "tag": "巨大娘",
+      "category": "属性",
+      "keywords": [
+        "macrophilia",
+        "巨大化",
+        "giantess",
+        "巨大",
+        "マクロ",
+        "巨大娘"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1d993eed97",
+    "action": "upsert",
+    "payload": {
+      "tag": "幼女",
+      "category": "属性",
+      "keywords": [
+        "little girl",
+        "幼女",
+        "loli"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cea7bc76a5",
+    "action": "upsert",
+    "payload": {
+      "tag": "御姐",
+      "category": "属性",
+      "keywords": [
+        "older sister figure",
+        "御姐",
+        "お姉さん",
+        "big sister"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-db7e6343fc",
+    "action": "upsert",
+    "payload": {
+      "tag": "微毛",
+      "category": "属性",
+      "keywords": [
+        "little hair",
+        "微毛",
+        "light pubic hair",
+        "薄毛"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0ef6da0543",
+    "action": "upsert",
+    "payload": {
+      "tag": "性转",
+      "category": "属性",
+      "keywords": [
+        "变性",
+        "性転換",
+        "gender bender",
+        "TS",
+        "性转"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a1654fd2ca",
+    "action": "upsert",
+    "payload": {
+      "tag": "恶堕",
+      "category": "属性",
+      "keywords": [
+        "恶堕",
+        "悪堕ち",
+        "堕落",
+        "洗脑恶堕",
+        "corruption"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ea41f393fd",
+    "action": "upsert",
+    "payload": {
+      "tag": "截肢",
+      "category": "属性",
+      "keywords": [
+        "guro",
+        "四肢欠损",
+        "四肢欠損",
+        "残疾",
+        "截肢",
+        "猎奇",
+        "amputee"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bce056a617",
+    "action": "upsert",
+    "payload": {
+      "tag": "扶他",
+      "category": "属性",
+      "keywords": [
+        "futanari",
+        "ふたなり",
+        "扶他"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9107b73321",
+    "action": "upsert",
+    "payload": {
+      "tag": "晒痕",
+      "category": "属性",
+      "keywords": [
+        "tan lines",
+        "日焼け跡",
+        "晒痕",
+        "泳装痕"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9d8ec02640",
+    "action": "upsert",
+    "payload": {
+      "tag": "极品",
+      "category": "属性",
+      "keywords": [
+        "best",
+        "最高",
+        "极品",
+        "top quality",
+        "stunning",
+        "神回",
+        "極上",
+        "premium"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8593e0ed01",
+    "action": "upsert",
+    "payload": {
+      "tag": "母犬",
+      "category": "属性",
+      "keywords": [
+        "肉便器",
+        "雌犬",
+        "メス犬",
+        "母狗",
+        "性奴",
+        "bitch",
+        "メスブタ",
+        "母猪",
+        "母犬"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9e3534b2d4",
+    "action": "upsert",
+    "payload": {
+      "tag": "水多",
+      "category": "属性",
+      "keywords": [
+        "wet",
+        "汁だく",
+        "濡れ",
+        "juicy",
+        "水多"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f31c052b5e",
+    "action": "upsert",
+    "payload": {
+      "tag": "水蛇腰",
+      "category": "属性",
+      "keywords": [
+        "slender waist",
+        "小蛮腰",
+        "slim waist",
+        "くびれ",
+        "水蛇腰"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-22a4d67302",
+    "action": "upsert",
+    "payload": {
+      "tag": "泌乳",
+      "category": "属性",
+      "keywords": [
+        "母乳",
+        "喷奶",
+        "挤奶",
+        "lactation",
+        "泌乳"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-95ade3e3fd",
+    "action": "upsert",
+    "payload": {
+      "tag": "混血",
+      "category": "属性",
+      "keywords": [
+        "latina",
+        "拉丁",
+        "亚裔",
+        "ハーフ",
+        "混血",
+        "interracial",
+        "asian",
+        "mixed"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8d436b4106",
+    "action": "upsert",
+    "payload": {
+      "tag": "清纯",
+      "category": "属性",
+      "keywords": [
+        "pure",
+        "清纯",
+        "清楚",
+        "innocent"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-887cd8e1d2",
+    "action": "upsert",
+    "payload": {
+      "tag": "熟女",
+      "category": "属性",
+      "keywords": [
+        "おばさん",
+        "older woman",
+        "auntie",
+        "成熟女性",
+        "熟女",
+        "半老徐娘",
+        "マダム",
+        "美魔女",
+        "mature",
+        "大妈",
+        "milf",
+        "叔母",
+        "阿姨",
+        "granny"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-595aec1e57",
+    "action": "upsert",
+    "payload": {
+      "tag": "爆乳",
+      "category": "属性",
+      "keywords": [
+        "爆乳",
+        "Hカップ",
+        "H cup",
+        "H杯",
+        "huge breasts",
+        "h-cup"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a342898ee8",
+    "action": "upsert",
+    "payload": {
+      "tag": "特殊特征",
+      "category": "属性",
+      "keywords": [
+        "刺青",
+        "エルフ耳",
+        "穿环",
+        "獣耳",
+        "兽耳",
+        "タトゥー",
+        "piercing",
+        "狐狸尾巴",
+        "animal ears",
+        "精灵耳",
+        "elf ears",
+        "淫纹",
+        "tattoo",
+        "特殊特征",
+        "ピアス",
+        "纹身"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4c7b747a48",
+    "action": "upsert",
+    "payload": {
+      "tag": "甜美",
+      "category": "属性",
+      "keywords": [
+        "甜美",
+        "sweet",
+        "スイート",
+        "甘い"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-27d8a3d47a",
+    "action": "upsert",
+    "payload": {
+      "tag": "病娇",
+      "category": "属性",
+      "keywords": [
+        "ヤンデレ",
+        "yandere",
+        "病娇"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b1dbca8e86",
+    "action": "upsert",
+    "payload": {
+      "tag": "病弱",
+      "category": "属性",
+      "keywords": [
+        "病弱",
+        "sickly"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-82883bd3d3",
+    "action": "upsert",
+    "payload": {
+      "tag": "白嫩",
+      "category": "属性",
+      "keywords": [
+        "色白",
+        "美肌",
+        "fair skin",
+        "white skin",
+        "皮肤白",
+        "白嫩",
+        "pale skin"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0e24e3e5ab",
+    "action": "upsert",
+    "payload": {
+      "tag": "白虎",
+      "category": "属性",
+      "keywords": [
+        "剃毛",
+        "一线天",
+        "无毛",
+        "hairless",
+        "白虎",
+        "除毛",
+        "パイパン",
+        "無毛",
+        "shaved"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-db9b92eef7",
+    "action": "upsert",
+    "payload": {
+      "tag": "眼镜",
+      "category": "属性",
+      "keywords": [
+        "眼鏡",
+        "megane",
+        "眼镜娘",
+        "メガネっ娘",
+        "glasses",
+        "メガネ",
+        "meganekko",
+        "眼镜"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-84b783fc6c",
+    "action": "upsert",
+    "payload": {
+      "tag": "短发",
+      "category": "属性",
+      "keywords": [
+        "短发",
+        "short hair",
+        "短髪",
+        "ショートヘア"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-297fe190ea",
+    "action": "upsert",
+    "payload": {
+      "tag": "穿刺",
+      "category": "属性",
+      "keywords": [
+        "piercing",
+        "穿刺",
+        "耳洞",
+        "ピアス",
+        "乳环",
+        "阴环",
+        "肚脐钉"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-874f01aa6d",
+    "action": "upsert",
+    "payload": {
+      "tag": "童颜",
+      "category": "属性",
+      "keywords": [
+        "baby face",
+        "童颜",
+        "童顔"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-df34568cef",
+    "action": "upsert",
+    "payload": {
+      "tag": "粉嫩",
+      "category": "属性",
+      "keywords": [
+        "ピンク",
+        "粉嫩",
+        "pink"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9102f7de99",
+    "action": "upsert",
+    "payload": {
+      "tag": "精灵耳",
+      "category": "属性",
+      "keywords": [
+        "エルフ耳",
+        "精灵耳",
+        "elf ears"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-09bd09583d",
+    "action": "upsert",
+    "payload": {
+      "tag": "紧致",
+      "category": "属性",
+      "keywords": [
+        "紧致",
+        "tight",
+        "締まり",
+        "名器"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7803c06e8f",
+    "action": "upsert",
+    "payload": {
+      "tag": "纹身",
+      "category": "属性",
+      "keywords": [
+        "刺青",
+        "tattoo",
+        "タトゥー",
+        "纹身"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b21ac25366",
+    "action": "upsert",
+    "payload": {
+      "tag": "缩小",
+      "category": "属性",
+      "keywords": [
+        "microphilia",
+        "miniature",
+        "小人",
+        "缩小",
+        "マイクロ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d9cc0f6a5a",
+    "action": "upsert",
+    "payload": {
+      "tag": "美乳",
+      "category": "属性",
+      "keywords": [
+        "美乳",
+        "beautiful tits",
+        "beautiful breasts"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b96e78f793",
+    "action": "upsert",
+    "payload": {
+      "tag": "美少女",
+      "category": "属性",
+      "keywords": [
+        "美少女",
+        "bishoujo",
+        "beautiful girl"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bc9397ff00",
+    "action": "upsert",
+    "payload": {
+      "tag": "美背",
+      "category": "属性",
+      "keywords": [
+        "beautiful back",
+        "美背",
+        "美背中"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4d4ba15f8a",
+    "action": "upsert",
+    "payload": {
+      "tag": "美腿",
+      "category": "属性",
+      "keywords": [
+        "美腿",
+        "long legs",
+        "美脚",
+        "長脚",
+        "长腿",
+        "beautiful legs",
+        "玉足"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9228327140",
+    "action": "upsert",
+    "payload": {
+      "tag": "美臀",
+      "category": "属性",
+      "keywords": [
+        "big ass",
+        "大屁股",
+        "蜜桃臀",
+        "巨尻",
+        "安産型",
+        "perky ass",
+        "尻フェチ",
+        "beautiful ass",
+        "fat ass",
+        "pawg",
+        "美臀",
+        "安产型",
+        "perky butt",
+        "翘臀",
+        "デカ尻",
+        "booty",
+        "丰臀",
+        "美尻",
+        "电臀",
+        "上向きヒップ",
+        "bubble butt",
+        "肥臀",
+        "nice ass"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0ab4bcb6a8",
+    "action": "upsert",
+    "payload": {
+      "tag": "肉感",
+      "category": "属性",
+      "keywords": [
+        "微胖",
+        "肉感的",
+        "胖女人",
+        "fpa",
+        "ぽっちゃり",
+        "デブ",
+        "curvy",
+        "plump",
+        "ムチムチ",
+        "chubby",
+        "voluptuous",
+        "肉感",
+        "fat woman",
+        "bbw"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0ff6598534",
+    "action": "upsert",
+    "payload": {
+      "tag": "肌肉女",
+      "category": "属性",
+      "keywords": [
+        "健身女",
+        "肌肉女",
+        "muscular woman",
+        "筋肉女子",
+        "フィットネス",
+        "くびれ",
+        "筋肉娘",
+        "abs",
+        "水蛇腰",
+        "muscle girl",
+        "fit girl",
+        "马甲线",
+        "腹肌",
+        "筋肉女",
+        "fitness girl"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-850613d2bf",
+    "action": "upsert",
+    "payload": {
+      "tag": "肤色",
+      "category": "属性",
+      "keywords": [
+        "bbc",
+        "ebony",
+        "日韩",
+        "白人",
+        "外国人",
+        "肤色",
+        "欧美",
+        "国产",
+        "caucasian",
+        "黒人",
+        "white",
+        "黑人",
+        "black",
+        "非洲"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b2d1c0a746",
+    "action": "upsert",
+    "payload": {
+      "tag": "肤质",
+      "category": "属性",
+      "keywords": [
+        "色白",
+        "pale",
+        "小麦色",
+        "黑皮",
+        "褐色",
+        "tanned",
+        "肤质",
+        "白嫩"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-dfd63e6dd9",
+    "action": "upsert",
+    "payload": {
+      "tag": "苗条",
+      "category": "属性",
+      "keywords": [
+        "苗条",
+        "スリム",
+        "slender",
+        "slim"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2d7dff6b2b",
+    "action": "upsert",
+    "payload": {
+      "tag": "萝莉",
+      "category": "属性",
+      "keywords": [
+        "loli",
+        "幼女",
+        "ロリ",
+        "幼态",
+        "合法萝莉",
+        "little girl",
+        "小女孩",
+        "petite",
+        "萝莉"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9c89d3d9d4",
+    "action": "upsert",
+    "payload": {
+      "tag": "贫乳",
+      "category": "属性",
+      "keywords": [
+        "まな板",
+        "飞机场",
+        "flat chest",
+        "ぺちゃんこ",
+        "小奶",
+        "small breasts",
+        "对A",
+        "tiny boobs",
+        "小胸",
+        "贫乳",
+        "貧乳",
+        "微乳",
+        "aa cup",
+        "small tits",
+        "钢板",
+        "A杯",
+        "絶壁",
+        "平胸",
+        "tiny tits"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d5825c4ddd",
+    "action": "upsert",
+    "payload": {
+      "tag": "足浴",
+      "category": "属性",
+      "keywords": [
+        "foot bath",
+        "足湯",
+        "足浴"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2c24b964eb",
+    "action": "upsert",
+    "payload": {
+      "tag": "身材好",
+      "category": "属性",
+      "keywords": [
+        "ナイスバディ",
+        "身材好",
+        "nice body"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cb493afbf4",
+    "action": "upsert",
+    "payload": {
+      "tag": "辣妹",
+      "category": "属性",
+      "keywords": [
+        "gyaru",
+        "ギャル",
+        "辣妹"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f137e825c3",
+    "action": "upsert",
+    "payload": {
+      "tag": "金发",
+      "category": "属性",
+      "keywords": [
+        "blonde",
+        "金发",
+        "金髪"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5631526eb9",
+    "action": "upsert",
+    "payload": {
+      "tag": "锁骨",
+      "category": "属性",
+      "keywords": [
+        "鎖骨",
+        "collarbone",
+        "锁骨"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b3ed23c814",
+    "action": "upsert",
+    "payload": {
+      "tag": "长发",
+      "category": "属性",
+      "keywords": [
+        "长发",
+        "長髪",
+        "ロングヘア",
+        "long hair"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-da7513874a",
+    "action": "upsert",
+    "payload": {
+      "tag": "马甲线",
+      "category": "属性",
+      "keywords": [
+        "v-cut",
+        "abs line",
+        "腹筋",
+        "abs",
+        "Vライン",
+        "马甲线",
+        "腹肌",
+        "人鱼线"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a916e7989c",
+    "action": "upsert",
+    "payload": {
+      "tag": "高颜值",
+      "category": "属性",
+      "keywords": [
+        "pretty",
+        "beautiful",
+        "可愛い",
+        "美人",
+        "high face value",
+        "cute",
+        "美形",
+        "高颜值"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-610079d1c8",
+    "action": "upsert",
+    "payload": {
+      "tag": "黑森林",
+      "category": "属性",
+      "keywords": [
+        "微毛",
+        "hairy",
+        "腋毛",
+        "多毛",
+        "海胆",
+        "わき毛",
+        "黑森林",
+        "剛毛",
+        "armpit hair",
+        "bush"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a3dd0ad03f",
+    "action": "upsert",
+    "payload": {
+      "tag": "黑皮",
+      "category": "属性",
+      "keywords": [
+        "dark skin",
+        "黑皮",
+        "褐色"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-782a3a02ad",
+    "action": "upsert",
+    "payload": {
+      "tag": "丁字裤",
+      "category": "服装",
+      "keywords": [
+        "c-string",
+        "丁字裤",
+        "C字裤",
+        "thong",
+        "g-string",
+        "开裆裤",
+        "穴あき",
+        "免脱",
+        "Cストリング",
+        "crotchless",
+        "Tバック"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e866117ccc",
+    "action": "upsert",
+    "payload": {
+      "tag": "丝袜",
+      "category": "服装",
+      "keywords": [
+        "裤袜",
+        "tights",
+        "パンスト",
+        "连裤袜",
+        "stockings",
+        "nylons",
+        "长筒袜",
+        "タイツ",
+        "ストッキング",
+        "丝袜",
+        "pantyhose"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-023668ead3",
+    "action": "upsert",
+    "payload": {
+      "tag": "乳胶衣",
+      "category": "服装",
+      "keywords": [
+        "乳胶衣",
+        "latex",
+        "乳胶",
+        "ラテックス"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b31ea870a8",
+    "action": "upsert",
+    "payload": {
+      "tag": "传统服饰",
+      "category": "服装",
+      "keywords": [
+        "cheongsam",
+        "传统服饰",
+        "和服",
+        "汉服",
+        "kimono",
+        "着物",
+        "旗袍",
+        "チャイナドレス",
+        "traditional clothing"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-af690566e7",
+    "action": "upsert",
+    "payload": {
+      "tag": "体操服",
+      "category": "服装",
+      "keywords": [
+        "体操服",
+        "gym shorts",
+        "灯笼裤",
+        "运动短裤",
+        "ブルマ",
+        "bloomers",
+        "gym uniform"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c27baf95ce",
+    "action": "upsert",
+    "payload": {
+      "tag": "兔女郎",
+      "category": "服装",
+      "keywords": [
+        "bunny girl",
+        "兽耳",
+        "猫女",
+        "猫耳",
+        "バニーガール",
+        "兔女郎",
+        "catgirl"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7f55693968",
+    "action": "upsert",
+    "payload": {
+      "tag": "兜裆布",
+      "category": "服装",
+      "keywords": [
+        "遮羞布",
+        "褌",
+        "丁字裤",
+        "兜裆布",
+        "fundoshi"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-739444b638",
+    "action": "upsert",
+    "payload": {
+      "tag": "内衣",
+      "category": "服装",
+      "keywords": [
+        "lingerie",
+        "bra",
+        "ランジェリー",
+        "蕾丝内衣",
+        "情趣内衣",
+        "内衣",
+        "胸罩",
+        "panties",
+        "下着",
+        "ブラジャー",
+        "パンティ",
+        "underwear",
+        "胖次",
+        "パンツ",
+        "内裤"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b1594546d8",
+    "action": "upsert",
+    "payload": {
+      "tag": "创可贴",
+      "category": "服装",
+      "keywords": [
+        "创可贴",
+        "乳贴",
+        "ニップレス",
+        "nipple tape"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a73ce34525",
+    "action": "upsert",
+    "payload": {
+      "tag": "制服",
+      "category": "服装",
+      "keywords": [
+        "工作服",
+        "uniform jacket",
+        "制服诱惑",
+        "制服",
+        "uniform",
+        "スーツ",
+        "制服外套",
+        "ブレザー",
+        "职业装"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-53abbde331",
+    "action": "upsert",
+    "payload": {
+      "tag": "吊带袜",
+      "category": "服装",
+      "keywords": [
+        "ガーターベルト",
+        "garter belt",
+        "吊带袜",
+        "吊袜带"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7f2d555f41",
+    "action": "upsert",
+    "payload": {
+      "tag": "吊带裙",
+      "category": "服装",
+      "keywords": [
+        "camisole",
+        "strap",
+        "吊带裙",
+        "キャミソール",
+        "吊带"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-92e31fe544",
+    "action": "upsert",
+    "payload": {
+      "tag": "女仆装",
+      "category": "服装",
+      "keywords": [
+        "メイド服",
+        "maid outfit",
+        "女仆装"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4736293066",
+    "action": "upsert",
+    "payload": {
+      "tag": "婚纱",
+      "category": "服装",
+      "keywords": [
+        "wedding dress",
+        "ウェディングドレス",
+        "花嫁",
+        "新娘装",
+        "婚纱"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1fabedf25b",
+    "action": "upsert",
+    "payload": {
+      "tag": "开裆",
+      "category": "服装",
+      "keywords": [
+        "开档裤",
+        "开裆",
+        "crotchless pants",
+        "穴あき",
+        "穴あきパンツ",
+        "crotchless"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fba73a0906",
+    "action": "upsert",
+    "payload": {
+      "tag": "情趣内衣",
+      "category": "服装",
+      "keywords": [
+        "lingerie",
+        "ランジェリー",
+        "情趣内衣",
+        "sexy lingerie",
+        "セクシーランジェリー"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-688c6f541e",
+    "action": "upsert",
+    "payload": {
+      "tag": "护士服",
+      "category": "服装",
+      "keywords": [
+        "nurse uniform",
+        "护士服",
+        "ナース服"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-621ab1b5e3",
+    "action": "upsert",
+    "payload": {
+      "tag": "拘束衣",
+      "category": "服装",
+      "keywords": [
+        "straitjacket",
+        "精神病院服",
+        "拘束衣"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cec8c60173",
+    "action": "upsert",
+    "payload": {
+      "tag": "旗袍",
+      "category": "服装",
+      "keywords": [
+        "cheongsam",
+        "旗袍",
+        "チャイナドレス"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-01d9e6924e",
+    "action": "upsert",
+    "payload": {
+      "tag": "无内裤",
+      "category": "服装",
+      "keywords": [
+        "ノーブラ",
+        "no panties",
+        "ノーパン",
+        "原味",
+        "真空",
+        "无内裤",
+        "braless"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3761eee505",
+    "action": "upsert",
+    "payload": {
+      "tag": "死库水",
+      "category": "服装",
+      "keywords": [
+        "スクール水着",
+        "死库水",
+        "school swimsuit",
+        "sukusui",
+        "校园泳装",
+        "スク水"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d7d016b0f4",
+    "action": "upsert",
+    "payload": {
+      "tag": "比基尼",
+      "category": "服装",
+      "keywords": [
+        "bikini",
+        "ビキニ",
+        "比基尼"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b279dc9b08",
+    "action": "upsert",
+    "payload": {
+      "tag": "水手服",
+      "category": "服装",
+      "keywords": [
+        "school uniform",
+        "sailor suit",
+        "学生装",
+        "JK制服",
+        "水手服",
+        "セーラー服"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3c676c8b4c",
+    "action": "upsert",
+    "payload": {
+      "tag": "汉服",
+      "category": "服装",
+      "keywords": [
+        "hanfu",
+        "汉服",
+        "chinese traditional",
+        "古风"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cb15886079",
+    "action": "upsert",
+    "payload": {
+      "tag": "泳衣",
+      "category": "服装",
+      "keywords": [
+        "泳衣",
+        "水着",
+        "bikini",
+        "swimsuit"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d183146e42",
+    "action": "upsert",
+    "payload": {
+      "tag": "浴衣",
+      "category": "服装",
+      "keywords": [
+        "和服",
+        "温泉浴衣",
+        "yukata",
+        "浴衣"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f3ae3036d3",
+    "action": "upsert",
+    "payload": {
+      "tag": "猫耳装",
+      "category": "服装",
+      "keywords": [
+        "猫耳装",
+        "猫娘",
+        "猫女",
+        "cat girl",
+        "catgirl suit"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4c2914a2ca",
+    "action": "upsert",
+    "payload": {
+      "tag": "瑜伽裤",
+      "category": "服装",
+      "keywords": [
+        "瑜伽裤",
+        "leggings",
+        "レギンス",
+        "yoga pants",
+        "ヨガパンツ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3ef0ac6a50",
+    "action": "upsert",
+    "payload": {
+      "tag": "白丝",
+      "category": "服装",
+      "keywords": [
+        "白タイツ",
+        "白丝袜",
+        "white pantyhose",
+        "灰丝",
+        "white stockings",
+        "肉丝",
+        "白ストッキング",
+        "白丝",
+        "白スト"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-17a4e061ee",
+    "action": "upsert",
+    "payload": {
+      "tag": "皮衣",
+      "category": "服装",
+      "keywords": [
+        "皮革",
+        "皮衣",
+        "レザー",
+        "leather"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-86d2e47ec7",
+    "action": "upsert",
+    "payload": {
+      "tag": "皮靴",
+      "category": "服装",
+      "keywords": [
+        "boots",
+        "皮靴",
+        "ブーツ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d702353201",
+    "action": "upsert",
+    "payload": {
+      "tag": "短裙",
+      "category": "服装",
+      "keywords": [
+        "ミニスカート",
+        "ミニスカ",
+        "miniskirt",
+        "短裙"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a527bd5a4e",
+    "action": "upsert",
+    "payload": {
+      "tag": "紧身衣",
+      "category": "服装",
+      "keywords": [
+        "皮衣",
+        "瑜伽裤",
+        "ラテックス",
+        "レオタード",
+        "leather",
+        "yoga pants",
+        "latex",
+        "紧身衣",
+        "胶衣",
+        "leotard"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-096fa6fef1",
+    "action": "upsert",
+    "payload": {
+      "tag": "紧身裙",
+      "category": "服装",
+      "keywords": [
+        "紧身裙",
+        "タイトスカート",
+        "tight skirt"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-282fc0a678",
+    "action": "upsert",
+    "payload": {
+      "tag": "网袜",
+      "category": "服装",
+      "keywords": [
+        "garter",
+        "fishnet",
+        "渔网袜",
+        "網タイツ",
+        "吊带袜",
+        "网袜",
+        "fishnets",
+        "ガーターベルト"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d14194bfa4",
+    "action": "upsert",
+    "payload": {
+      "tag": "职业装",
+      "category": "服装",
+      "keywords": [
+        "business attire",
+        "スーツ",
+        "职业装",
+        "business suit",
+        "洽公服装"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e091822d28",
+    "action": "upsert",
+    "payload": {
+      "tag": "蕾丝",
+      "category": "服装",
+      "keywords": [
+        "レース",
+        "lace",
+        "蕾丝"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e2f49554cf",
+    "action": "upsert",
+    "payload": {
+      "tag": "裸体围裙",
+      "category": "服装",
+      "keywords": [
+        "围裙",
+        "apron",
+        "エプロン",
+        "naked apron",
+        "裸体围裙",
+        "裸エプロン"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b9d9eca317",
+    "action": "upsert",
+    "payload": {
+      "tag": "角色扮演",
+      "category": "服装",
+      "keywords": [
+        "cosplay",
+        "角色扮演",
+        "Cosplay",
+        "コスプレ",
+        "cosplay costume",
+        "cos",
+        "Cos",
+        "COSPLAY服饰"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8c66d2c076",
+    "action": "upsert",
+    "payload": {
+      "tag": "豹纹",
+      "category": "服装",
+      "keywords": [
+        "leopard print",
+        "豹纹",
+        "ヒョウ柄"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b348204bf9",
+    "action": "upsert",
+    "payload": {
+      "tag": "过膝袜",
+      "category": "服装",
+      "keywords": [
+        "ニーソックス",
+        "knee highs",
+        "过膝袜",
+        "ニーソ",
+        "thigh highs"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-89a0380d22",
+    "action": "upsert",
+    "payload": {
+      "tag": "连体紧身衣",
+      "category": "服装",
+      "keywords": [
+        "连体紧身衣",
+        "leotard",
+        "死库水",
+        "レオタード"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6c73f29cd9",
+    "action": "upsert",
+    "payload": {
+      "tag": "连裤袜",
+      "category": "服装",
+      "keywords": [
+        "pantyhose",
+        "tights",
+        "パンスト",
+        "タイツ",
+        "连裤袜",
+        "裤袜"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-14f2246988",
+    "action": "upsert",
+    "payload": {
+      "tag": "透视装",
+      "category": "服装",
+      "keywords": [
+        "透视装",
+        "シースルー",
+        "see-through"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5c5031bd8e",
+    "action": "upsert",
+    "payload": {
+      "tag": "高跟鞋",
+      "category": "服装",
+      "keywords": [
+        "运动鞋",
+        "高跟",
+        "皮靴",
+        "高跟鞋",
+        "sneakers",
+        "长筒靴",
+        "ハイヒール",
+        "high heels",
+        "凉鞋",
+        "boots",
+        "ブーツ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f9378693a9",
+    "action": "upsert",
+    "payload": {
+      "tag": "黑丝",
+      "category": "服装",
+      "keywords": [
+        "巴黎世家",
+        "黒スト",
+        "黑丝袜",
+        "黒タイツ",
+        "黒ストッキング",
+        "黑丝",
+        "black pantyhose",
+        "black stockings"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d93f050b70",
+    "action": "upsert",
+    "payload": {
+      "tag": "呻吟",
+      "category": "状态",
+      "keywords": [
+        "娇喘",
+        "叫床",
+        "喘ぎ声",
+        "moan",
+        "喘ぎ",
+        "呻吟",
+        "moaning"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ef9de4e1ef",
+    "action": "upsert",
+    "payload": {
+      "tag": "多重高潮",
+      "category": "状态",
+      "keywords": [
+        "multiple orgasms",
+        "連続絶頂",
+        "多重高潮"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-24401856cc",
+    "action": "upsert",
+    "payload": {
+      "tag": "失禁",
+      "category": "状态",
+      "keywords": [
+        "incontinence",
+        "pissing",
+        "漏尿",
+        "leaking urine",
+        "失禁",
+        "お漏らし"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d5bfd6ded1",
+    "action": "upsert",
+    "payload": {
+      "tag": "对白",
+      "category": "状态",
+      "keywords": [
+        "骚话",
+        "淫语",
+        "言葉責め",
+        "对白",
+        "dirty talk",
+        "淫語",
+        "会話",
+        "dialogue",
+        "粗口",
+        "脏话",
+        "情话",
+        "音声"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3f394f84e6",
+    "action": "upsert",
+    "payload": {
+      "tag": "强制高潮",
+      "category": "状态",
+      "keywords": [
+        "orgasm control",
+        "強制絶頂",
+        "高潮管理",
+        "forced orgasm",
+        "绝顶",
+        "强制高潮",
+        "开发"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8216837e8c",
+    "action": "upsert",
+    "payload": {
+      "tag": "淫语",
+      "category": "状态",
+      "keywords": [
+        "淫语",
+        "dirty talk",
+        "淫語"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c25489203a",
+    "action": "upsert",
+    "payload": {
+      "tag": "痉挛",
+      "category": "状态",
+      "keywords": [
+        "spasm",
+        "twitching",
+        "痉挛",
+        "抽搐",
+        "痙攣"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8f786887cc",
+    "action": "upsert",
+    "payload": {
+      "tag": "粗口",
+      "category": "状态",
+      "keywords": [
+        "汚言",
+        "dirty talk",
+        "脏话",
+        "粗口",
+        "暴言",
+        "swearing"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e0a8eaa61f",
+    "action": "upsert",
+    "payload": {
+      "tag": "翻白眼",
+      "category": "状态",
+      "keywords": [
+        "白目",
+        "白眼",
+        "rolling eyes",
+        "翻白眼"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b2b4fc7908",
+    "action": "upsert",
+    "payload": {
+      "tag": "连续射精",
+      "category": "状态",
+      "keywords": [
+        "multiple ejaculations",
+        "连发",
+        "连续射精",
+        "多发",
+        "連続射精",
+        "榨干"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ee809d3834",
+    "action": "upsert",
+    "payload": {
+      "tag": "阿嘿颜",
+      "category": "状态",
+      "keywords": [
+        "fucked face",
+        "吐舌头",
+        "翻白眼",
+        "アヘ顔",
+        "ahegao",
+        "阿嘿颜",
+        "高潮脸"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-69066c4b6e",
+    "action": "upsert",
+    "payload": {
+      "tag": "高潮",
+      "category": "状态",
+      "keywords": [
+        "高潮",
+        "绝顶",
+        "性高潮",
+        "climax",
+        "orgasm",
+        "イク",
+        "オーガズム",
+        "絶頂"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4eef89181d",
+    "action": "upsert",
+    "payload": {
+      "tag": "3P",
+      "category": "行为",
+      "keywords": [
+        "3p",
+        "3P",
+        "双飞",
+        "threesome"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c084ad8fe4",
+    "action": "upsert",
+    "payload": {
+      "tag": "4P",
+      "category": "行为",
+      "keywords": [
+        "三飞",
+        "3P",
+        "4P",
+        "threesome"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a9e806daad",
+    "action": "upsert",
+    "payload": {
+      "tag": "69式",
+      "category": "行为",
+      "keywords": [
+        "69 position",
+        "69",
+        "sixty-nine",
+        "シックスナイン",
+        "69式"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-65d950b330",
+    "action": "upsert",
+    "payload": {
+      "tag": "M字开脚",
+      "category": "行为",
+      "keywords": [
+        "m-leg spread",
+        "M字开脚",
+        "m-leg",
+        "M字開脚"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4e0d4f6ce3",
+    "action": "upsert",
+    "payload": {
+      "tag": "SM",
+      "category": "行为",
+      "keywords": [
+        "施虐",
+        "滴蜡",
+        "主奴",
+        "受虐",
+        "束缚",
+        "口塞",
+        "緊縛",
+        "调教",
+        "捆绑",
+        "支配",
+        "字母圈",
+        "龟甲缚",
+        "調教",
+        "bondage",
+        "绳缚",
+        "皮鞭",
+        "BDSM",
+        "スパンキング",
+        "虐恋",
+        "bdsm",
+        "submission",
+        "臣服",
+        "domination",
+        "SM",
+        "spanking"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2ea9b3aedb",
+    "action": "upsert",
+    "payload": {
+      "tag": "一字马",
+      "category": "行为",
+      "keywords": [
+        "splits",
+        "split",
+        "Ｉ字バランス",
+        "股割り",
+        "開脚",
+        "一字马"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-189efd7c96",
+    "action": "upsert",
+    "payload": {
+      "tag": "乳交",
+      "category": "行为",
+      "keywords": [
+        "パイズリ",
+        "夹鸡鸡",
+        "boobjob",
+        "胸交",
+        "titjob",
+        "乳交",
+        "夹胶",
+        "双峰夹击",
+        "洗面奶",
+        "paizuri",
+        "titfuck"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d07854dbc3",
+    "action": "upsert",
+    "payload": {
+      "tag": "互相口交",
+      "category": "行为",
+      "keywords": [
+        "互相口交",
+        "Ｗフェラ",
+        "相互フェラ",
+        "mutual oral",
+        "相互口交"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bc2c0151fa",
+    "action": "upsert",
+    "payload": {
+      "tag": "人兽",
+      "category": "行为",
+      "keywords": [
+        "beast",
+        "人兽",
+        "獣姦",
+        "人獣",
+        "bestiality"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bc1f44a33e",
+    "action": "upsert",
+    "payload": {
+      "tag": "内射",
+      "category": "行为",
+      "keywords": [
+        "受孕",
+        "无套内射",
+        "打种",
+        "体内射精",
+        "膣内射精",
+        "生中出し",
+        "中出し",
+        "cum inside",
+        "creampie",
+        "internal ejaculation",
+        "中出",
+        "受精",
+        "射里面",
+        "灌满",
+        "内射"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c0529ec29b",
+    "action": "upsert",
+    "payload": {
+      "tag": "冰火",
+      "category": "行为",
+      "keywords": [
+        "氷火",
+        "冰火",
+        "fire and ice"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-34a6967336",
+    "action": "upsert",
+    "payload": {
+      "tag": "凌辱",
+      "category": "行为",
+      "keywords": [
+        "humiliation",
+        "辱骂",
+        "骂脏话",
+        "陵辱",
+        "屈辱",
+        "公开处刑",
+        "slut shaming",
+        "羞辱",
+        "精神施虐",
+        "凌辱",
+        "荡妇羞辱",
+        "语言羞辱",
+        "rape",
+        "贬低"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f5db9cc8b2",
+    "action": "upsert",
+    "payload": {
+      "tag": "受孕",
+      "category": "行为",
+      "keywords": [
+        "種付け",
+        "impregnation",
+        "受精",
+        "受孕"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b1f540f8b9",
+    "action": "upsert",
+    "payload": {
+      "tag": "口交",
+      "category": "行为",
+      "keywords": [
+        "フェラ",
+        "fellatio",
+        "口淫",
+        "イラマチオ",
+        "深喉",
+        "口交",
+        "oral sex",
+        "吞精",
+        "bj",
+        "blowjob",
+        "冰火",
+        "吃精",
+        "吹萧",
+        "oral",
+        "吹箫",
+        "deepthroat",
+        "フェラチオ",
+        "口爆",
+        "cocksucking",
+        "品箫"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-28169ad4b8",
+    "action": "upsert",
+    "payload": {
+      "tag": "口爆",
+      "category": "行为",
+      "keywords": [
+        "口爆",
+        "口内発射",
+        "facial",
+        "mouth shot",
+        "cum in mouth",
+        "顔射",
+        "口内射精"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-05a7bfc594",
+    "action": "upsert",
+    "payload": {
+      "tag": "吊缚",
+      "category": "行为",
+      "keywords": [
+        "吊缚",
+        "吊り",
+        "suspension",
+        "吊绑",
+        "吊るし"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-724a2aaf46",
+    "action": "upsert",
+    "payload": {
+      "tag": "后入",
+      "category": "行为",
+      "keywords": [
+        "后入",
+        "老汉推车",
+        "狗爬式",
+        "バック",
+        "back",
+        "後背位",
+        "backwards",
+        "doggy style"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-97474cf556",
+    "action": "upsert",
+    "payload": {
+      "tag": "吞精",
+      "category": "行为",
+      "keywords": [
+        "吞精",
+        "咽精",
+        "gokkun",
+        "swallow",
+        "喝精",
+        "ゴックン",
+        "飲精"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fc07cf9fcf",
+    "action": "upsert",
+    "payload": {
+      "tag": "外射",
+      "category": "行为",
+      "keywords": [
+        "外出し",
+        "射在外面",
+        "pull out",
+        "外射",
+        "拔出",
+        "pulling out"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5ee982b5fa",
+    "action": "upsert",
+    "payload": {
+      "tag": "嫖娼",
+      "category": "行为",
+      "keywords": [
+        "買春",
+        "escort",
+        "找小姐",
+        "叫鸡",
+        "call girl",
+        "whoring",
+        "嫖娼",
+        "solicitation",
+        "デリヘル",
+        "prostitution",
+        "売春"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e12a7da08a",
+    "action": "upsert",
+    "payload": {
+      "tag": "实战",
+      "category": "行为",
+      "keywords": [
+        "gonzo",
+        "real action",
+        "実録",
+        "实战",
+        "ハメ撮り",
+        "unscripted"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-735e43f028",
+    "action": "upsert",
+    "payload": {
+      "tag": "射精",
+      "category": "行为",
+      "keywords": [
+        "cumshot",
+        "ejaculation",
+        "射精"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-31f91878e9",
+    "action": "upsert",
+    "payload": {
+      "tag": "尿道游玩",
+      "category": "行为",
+      "keywords": [
+        "urethral play",
+        "插尿管",
+        "尿道游玩",
+        "尿道プレイ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b86f9f7dc9",
+    "action": "upsert",
+    "payload": {
+      "tag": "异物插入",
+      "category": "行为",
+      "keywords": [
+        "塞入玩具",
+        "异物插入",
+        "object insertion",
+        "異物挿入"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3e716e930f",
+    "action": "upsert",
+    "payload": {
+      "tag": "强暴",
+      "category": "行为",
+      "keywords": [
+        "assault",
+        "轮奸",
+        "违背意愿",
+        "強姦",
+        "强上",
+        "レイプ",
+        "rape",
+        "强奸",
+        "violation",
+        "强暴",
+        "noncon",
+        "forced",
+        "霸王硬上弓",
+        "犯す",
+        "輪姦",
+        "侵犯",
+        "無理矢理"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a2851a741c",
+    "action": "upsert",
+    "payload": {
+      "tag": "手交",
+      "category": "行为",
+      "keywords": [
+        "手工",
+        "手淫",
+        "打手枪",
+        "masturbation",
+        "手コキ",
+        "handjob",
+        "ハンドジョブ",
+        "jerking off",
+        "手交",
+        "打飞机",
+        "撸管"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-575345386c",
+    "action": "upsert",
+    "payload": {
+      "tag": "打电话",
+      "category": "行为",
+      "keywords": [
+        "语聊",
+        "裸聊",
+        "电话调情",
+        "テレフォンセックス",
+        "磕炮",
+        "电话性爱",
+        "打电话",
+        "视频通话",
+        "文爱",
+        "网恋",
+        "phone sex",
+        "连麦",
+        "電話"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c5ef3fdb4e",
+    "action": "upsert",
+    "payload": {
+      "tag": "扩张",
+      "category": "行为",
+      "keywords": [
+        "扩张",
+        "拡張",
+        "gape",
+        "expansion"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-babdd9b8c2",
+    "action": "upsert",
+    "payload": {
+      "tag": "拳交",
+      "category": "行为",
+      "keywords": [
+        "fisting",
+        "拳交",
+        "フィスト",
+        "フィストファック"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8abf695094",
+    "action": "upsert",
+    "payload": {
+      "tag": "指交",
+      "category": "行为",
+      "keywords": [
+        "fingering",
+        "指マン",
+        "指交"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d111ad7589",
+    "action": "upsert",
+    "payload": {
+      "tag": "捆绑",
+      "category": "行为",
+      "keywords": [
+        "捆绑",
+        "窄缚",
+        "縛り",
+        "bondage",
+        "tight binding",
+        "kinbaku",
+        "龟甲缚",
+        "五花大绑",
+        "绳艺",
+        "直縛り",
+        "shibari",
+        "拘束",
+        "束缚"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e4ec64d8d3",
+    "action": "upsert",
+    "payload": {
+      "tag": "换妻",
+      "category": "行为",
+      "keywords": [
+        "交換",
+        "交换伴侣",
+        "交换",
+        "swingers",
+        "夫婦交換",
+        "swinging",
+        "swap",
+        "换妻",
+        "スワッピング",
+        "wife swapping"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6c029e4bf9",
+    "action": "upsert",
+    "payload": {
+      "tag": "排泄",
+      "category": "行为",
+      "keywords": [
+        "スカトロ",
+        "食粪",
+        "屎尿",
+        "大便",
+        "排泄",
+        "scat"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-69fb9dea7d",
+    "action": "upsert",
+    "payload": {
+      "tag": "接吻",
+      "category": "行为",
+      "keywords": [
+        "kiss",
+        "french kiss",
+        "打啵",
+        "接吻",
+        "法式湿吻",
+        "互啃",
+        "kissing",
+        "ディープキス",
+        "キス",
+        "亲嘴",
+        "舌吻",
+        "舌入れキス"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a3832299cb",
+    "action": "upsert",
+    "payload": {
+      "tag": "搭讪",
+      "category": "行为",
+      "keywords": [
+        "搭讪素人",
+        "ナンパ",
+        "撩妹",
+        "pickup",
+        "搭讪",
+        "街头搭讪"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2ae1c9d91f",
+    "action": "upsert",
+    "payload": {
+      "tag": "支配",
+      "category": "行为",
+      "keywords": [
+        "domination",
+        "支配"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b6ce002169",
+    "action": "upsert",
+    "payload": {
+      "tag": "放置",
+      "category": "行为",
+      "keywords": [
+        "女上位",
+        "neglect play",
+        "榨干",
+        "搾精",
+        "neglect",
+        "milking",
+        "放置",
+        "逆推",
+        "榨精",
+        "榨汁"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b0a86b355e",
+    "action": "upsert",
+    "payload": {
+      "tag": "无套",
+      "category": "行为",
+      "keywords": [
+        "bareback",
+        "无套",
+        "中出し",
+        "生ハメ",
+        "raw"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-44d7ba05df",
+    "action": "upsert",
+    "payload": {
+      "tag": "榨精",
+      "category": "行为",
+      "keywords": [
+        "榨汁机",
+        "sperm milking",
+        "搾精",
+        "榨干",
+        "榨精"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3144284b4b",
+    "action": "upsert",
+    "payload": {
+      "tag": "正常位",
+      "category": "行为",
+      "keywords": [
+        "男上位",
+        "正常位",
+        "传教士",
+        "missionary"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cf923a70ab",
+    "action": "upsert",
+    "payload": {
+      "tag": "毒龙",
+      "category": "行为",
+      "keywords": [
+        "rimming",
+        "毒龙",
+        "アナル舐め",
+        "rimjob",
+        "analingus"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f3d08770a6",
+    "action": "upsert",
+    "payload": {
+      "tag": "深喉",
+      "category": "行为",
+      "keywords": [
+        "ディープスロート",
+        "喉交",
+        "イラマチオ",
+        "irrumatio",
+        "吞吐",
+        "深喉",
+        "deepthroat"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2268c2a13b",
+    "action": "upsert",
+    "payload": {
+      "tag": "滴蜡",
+      "category": "行为",
+      "keywords": [
+        "滴蜡",
+        "蝋責め",
+        "ろうそくプレイ",
+        "蝋燭",
+        "wax play"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-41966f86af",
+    "action": "upsert",
+    "payload": {
+      "tag": "潮吹",
+      "category": "行为",
+      "keywords": [
+        "潮吹き",
+        "squirt",
+        "おもらし",
+        "绝顶喷水",
+        "喷射",
+        "female ejaculation",
+        "噴水",
+        "喷水",
+        "失禁",
+        "潮吹",
+        "漏尿",
+        "高潮喷水",
+        "squirting"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1a2a8abae6",
+    "action": "upsert",
+    "payload": {
+      "tag": "灌肠",
+      "category": "行为",
+      "keywords": [
+        "enema",
+        "灌肠",
+        "浣腸"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6220af5c7e",
+    "action": "upsert",
+    "payload": {
+      "tag": "电击",
+      "category": "行为",
+      "keywords": [
+        "electroplay",
+        "electric shock",
+        "電気責め",
+        "电击",
+        "電撃"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cd04134fb4",
+    "action": "upsert",
+    "payload": {
+      "tag": "监禁",
+      "category": "行为",
+      "keywords": [
+        "監禁",
+        "监禁",
+        "confinement",
+        "imprisonment"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5c362fc558",
+    "action": "upsert",
+    "payload": {
+      "tag": "睡眠奸",
+      "category": "行为",
+      "keywords": [
+        "睡眠奸",
+        "睡眠姦",
+        "睡梦中",
+        "sleep rape"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-003f2e55c2",
+    "action": "upsert",
+    "payload": {
+      "tag": "窒息",
+      "category": "行为",
+      "keywords": [
+        "asphyxia",
+        "窒息play",
+        "窒息",
+        "breath play",
+        "窒息プレイ",
+        "choking",
+        "首絞め"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a90a872ce3",
+    "action": "upsert",
+    "payload": {
+      "tag": "站立位",
+      "category": "行为",
+      "keywords": [
+        "standing",
+        "站立位",
+        "站立",
+        "火车便当",
+        "駅弁",
+        "立ちバック"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a84b0c9785",
+    "action": "upsert",
+    "payload": {
+      "tag": "紧缚",
+      "category": "行为",
+      "keywords": [
+        "tight bondage",
+        "绳缚",
+        "shibari",
+        "紧缚",
+        "rope bondage",
+        "緊縛"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8e338ee891",
+    "action": "upsert",
+    "payload": {
+      "tag": "约炮",
+      "category": "行为",
+      "keywords": [
+        "ナンパセックス",
+        "オフパコ",
+        "hookup",
+        "约炮",
+        "one night stand",
+        "casual sex"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cbc52212bf",
+    "action": "upsert",
+    "payload": {
+      "tag": "群交",
+      "category": "行为",
+      "keywords": [
+        "3P4P",
+        "群交",
+        "杂交",
+        "orgy",
+        "threesome",
+        "大乱交",
+        "3P",
+        "多人运动",
+        "乱交",
+        "多P",
+        "聚众淫乱",
+        "双飞",
+        "group sex",
+        "gangbang",
+        "大被同眠",
+        "スワッピング",
+        "多人数"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-aa32406e8c",
+    "action": "upsert",
+    "payload": {
+      "tag": "肛交",
+      "category": "行为",
+      "keywords": [
+        "sodomy",
+        "肛交",
+        "backdoor",
+        "anal sex",
+        "anal",
+        "爆菊",
+        "アナルセックス",
+        "旱道",
+        "菊花",
+        "アナル",
+        "后庭",
+        "走后门",
+        "尻の穴",
+        "走旱路"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-dc5ee3b80c",
+    "action": "upsert",
+    "payload": {
+      "tag": "肛门内射",
+      "category": "行为",
+      "keywords": [
+        "アナル中出し",
+        "肠内射精",
+        "肛门内射",
+        "anal creampie"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ab4aec2c78",
+    "action": "upsert",
+    "payload": {
+      "tag": "腋交",
+      "category": "行为",
+      "keywords": [
+        "armpit sex",
+        "脇コキ",
+        "腋交",
+        "夹击"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-aeb4ad60d3",
+    "action": "upsert",
+    "payload": {
+      "tag": "腿交",
+      "category": "行为",
+      "keywords": [
+        "素股",
+        "sumata",
+        "thigh sex",
+        "腿交"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7ed64b7881",
+    "action": "upsert",
+    "payload": {
+      "tag": "自慰",
+      "category": "行为",
+      "keywords": [
+        "自慰",
+        "抠逼",
+        "跳蛋",
+        "揉豆豆",
+        "masturbation",
+        "オナニー",
+        "dildo",
+        "震动棒",
+        "fingering",
+        "紫薇",
+        "vibrator",
+        "バイブ",
+        "自我安慰",
+        "撸管",
+        "手淫",
+        "打飞机",
+        "一人エッチ",
+        "玩玩具"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5608e3f501",
+    "action": "upsert",
+    "payload": {
+      "tag": "舔阴",
+      "category": "行为",
+      "keywords": [
+        "舔阴",
+        "eating out",
+        "吃鲍鱼",
+        "cunnilingus",
+        "毒龙",
+        "クンニリングス",
+        "クンニ",
+        "吃水蜜桃",
+        "舔穴"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1d8e7932a9",
+    "action": "upsert",
+    "payload": {
+      "tag": "裸足",
+      "category": "行为",
+      "keywords": [
+        "裸足",
+        "生足",
+        "barefoot"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b591477eca",
+    "action": "upsert",
+    "payload": {
+      "tag": "诱惑",
+      "category": "行为",
+      "keywords": [
+        "诱惑",
+        "seduction",
+        "逆推",
+        "诱导",
+        "色诱",
+        "誘惑",
+        "勾引"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fa3c70fecc",
+    "action": "upsert",
+    "payload": {
+      "tag": "调教",
+      "category": "行为",
+      "keywords": [
+        "choukyou",
+        "开发",
+        "training",
+        "調教",
+        "调教",
+        "discipline"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c6bc6b507e",
+    "action": "upsert",
+    "payload": {
+      "tag": "足交",
+      "category": "行为",
+      "keywords": [
+        "foot fetish",
+        "恋足",
+        "踩精",
+        "足コキ",
+        "黑丝足交",
+        "脚交",
+        "足交",
+        "足控",
+        "踩踏",
+        "footjob",
+        "玉足",
+        "丝足",
+        "フットジョブ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-22cf005a4e",
+    "action": "upsert",
+    "payload": {
+      "tag": "踩踏",
+      "category": "行为",
+      "keywords": [
+        "trampling",
+        "高跟踩",
+        "踩踏",
+        "踏みつけ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-829f686442",
+    "action": "upsert",
+    "payload": {
+      "tag": "车震",
+      "category": "行为",
+      "keywords": [
+        "滴滴车",
+        "カーセックス",
+        "出租车",
+        "タクシー",
+        "汽车性爱",
+        "車内",
+        "车震",
+        "车内",
+        "taxi",
+        "car sex"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4022d584bf",
+    "action": "upsert",
+    "payload": {
+      "tag": "轮奸",
+      "category": "行为",
+      "keywords": [
+        "轮奸",
+        "gangbang",
+        "輪姦"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e2e7981763",
+    "action": "upsert",
+    "payload": {
+      "tag": "边缘控制",
+      "category": "行为",
+      "keywords": [
+        "高潮管理",
+        "edging",
+        "忍耐",
+        "orgasm denial",
+        "边缘控制",
+        "寸止め"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-94fde8f10d",
+    "action": "upsert",
+    "payload": {
+      "tag": "迷奸",
+      "category": "行为",
+      "keywords": [
+        "睡眠奸",
+        "sleeping",
+        "sleep rape",
+        "睡眠姦",
+        "迷药",
+        "睡眠薬",
+        "迷奸",
+        "drugged",
+        "drugging",
+        "昏睡",
+        "捡尸",
+        "下药"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b3138a42b9",
+    "action": "upsert",
+    "payload": {
+      "tag": "逆推",
+      "category": "行为",
+      "keywords": [
+        "female domination",
+        "逆レイプ",
+        "女上位",
+        "榨汁",
+        "逆推"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-966d7c308c",
+    "action": "upsert",
+    "payload": {
+      "tag": "野战",
+      "category": "行为",
+      "keywords": [
+        "公园",
+        "大街",
+        "屋外",
+        "野战",
+        "小树林",
+        "street",
+        "野外露出",
+        "路上",
+        "树林",
+        "户外",
+        "exhibitionism",
+        "露出",
+        "forest",
+        "广场",
+        "public",
+        "野外プレイ",
+        "公園",
+        "公衆",
+        "outdoor",
+        "野外",
+        "公众场合",
+        "public sex"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fce38b2443",
+    "action": "upsert",
+    "payload": {
+      "tag": "阴道内射",
+      "category": "行为",
+      "keywords": [
+        "vaginal creampie",
+        "阴道内射",
+        "膣内射精"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-346a43a308",
+    "action": "upsert",
+    "payload": {
+      "tag": "露出",
+      "category": "行为",
+      "keywords": [
+        "露出",
+        "exhibitionism",
+        "公开露出",
+        "public",
+        "走光",
+        "羞耻play",
+        "暴露",
+        "露出羞耻",
+        "outdoor"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8389587996",
+    "action": "upsert",
+    "payload": {
+      "tag": "露出play",
+      "category": "行为",
+      "keywords": [
+        "露出play",
+        "露出プレイ",
+        "exhibitionism play"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4061699092",
+    "action": "upsert",
+    "payload": {
+      "tag": "鞭打",
+      "category": "行为",
+      "keywords": [
+        "鞭打",
+        "whipping",
+        "スパンキング",
+        "鞭打ち",
+        "spanking"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b4969563c8",
+    "action": "upsert",
+    "payload": {
+      "tag": "颜射",
+      "category": "行为",
+      "keywords": [
+        "脸上",
+        "cum on face",
+        "facial",
+        "bukkake",
+        "洗脸",
+        "满脸涂鸦",
+        "顔射",
+        "颜射",
+        "顔面射精",
+        "射脸",
+        "ぶっかけ",
+        "脸射"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-22f5577e57",
+    "action": "upsert",
+    "payload": {
+      "tag": "颜面骑乘",
+      "category": "行为",
+      "keywords": [
+        "顔面騎乗",
+        "facesitting",
+        "facesit",
+        "颜骑",
+        "颜面骑乘",
+        "face sitting"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-9d129b91b5",
+    "action": "upsert",
+    "payload": {
+      "tag": "饮尿",
+      "category": "行为",
+      "keywords": [
+        "饮尿",
+        "灌尿",
+        "golden shower",
+        "黄金水",
+        "放尿",
+        "piss drinking",
+        "圣水",
+        "尿液",
+        "飲尿"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e681ee1505",
+    "action": "upsert",
+    "payload": {
+      "tag": "骑乘位",
+      "category": "行为",
+      "keywords": [
+        "女上位",
+        "骑乘",
+        "cowgirl",
+        "骑乘位",
+        "cowgirl position",
+        "reverse cowgirl",
+        "騎乗位"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8db8a5ac48",
+    "action": "upsert",
+    "payload": {
+      "tag": "鸭子坐",
+      "category": "行为",
+      "keywords": [
+        "アヒル座り",
+        "ぺたん座り",
+        "鸭子坐",
+        "w-sitting"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e1e5e4f260",
+    "action": "upsert",
+    "payload": {
+      "tag": "AV女优",
+      "category": "角色",
+      "keywords": [
+        "女优",
+        "AV女优",
+        "av actress",
+        "女優",
+        "porn star",
+        "AV女優",
+        "actress",
+        "jav idol"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7dd2996fd5",
+    "action": "upsert",
+    "payload": {
+      "tag": "Coser",
+      "category": "角色",
+      "keywords": [
+        "角色扮演者",
+        "coser",
+        "コスプレイヤー",
+        "COSER",
+        "Coser",
+        "cosplayer"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f66667481c",
+    "action": "upsert",
+    "payload": {
+      "tag": "JC",
+      "category": "角色",
+      "keywords": [
+        "middle schooler",
+        "女初中生",
+        "初中生",
+        "女子中学生",
+        "junior high",
+        "jc",
+        "JC",
+        "中学生"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2ecd214db0",
+    "action": "upsert",
+    "payload": {
+      "tag": "JD",
+      "category": "角色",
+      "keywords": [
+        "college student",
+        "jd",
+        "大学生",
+        "女子大生",
+        "JD"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5c3116796f",
+    "action": "upsert",
+    "payload": {
+      "tag": "JK",
+      "category": "角色",
+      "keywords": [
+        "high school girl",
+        "jk",
+        "JK",
+        "女子高生",
+        "高中生",
+        "schoolgirl",
+        "女高中生",
+        "女子校生"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b406571b73",
+    "action": "upsert",
+    "payload": {
+      "tag": "OL",
+      "category": "角色",
+      "keywords": [
+        "ol",
+        "女职员",
+        "businesswoman",
+        "女白领",
+        "职场女性",
+        "OL",
+        "白领",
+        "女職員",
+        "office lady"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3db8bf86fc",
+    "action": "upsert",
+    "payload": {
+      "tag": "上司",
+      "category": "角色",
+      "keywords": [
+        "上役",
+        "boss",
+        "上司"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-33467b2b5a",
+    "action": "upsert",
+    "payload": {
+      "tag": "不良少女",
+      "category": "角色",
+      "keywords": [
+        "ギャル",
+        "辣妹",
+        "gyaru",
+        "不良少女",
+        "ヤンキー",
+        "delinquent",
+        "小太妹",
+        "太妹"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2007322a2e",
+    "action": "upsert",
+    "payload": {
+      "tag": "不良少年",
+      "category": "角色",
+      "keywords": [
+        "delinquent",
+        "ヤンキー",
+        "不良少年"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c13dceabcb",
+    "action": "upsert",
+    "payload": {
+      "tag": "中国",
+      "category": "角色",
+      "keywords": [
+        "chinese",
+        "中国人",
+        "中国"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6a9bbb8abd",
+    "action": "upsert",
+    "payload": {
+      "tag": "乌克兰",
+      "category": "角色",
+      "keywords": [
+        "乌克兰",
+        "ウクライナ",
+        "ukrainian"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8cb7db2b8b",
+    "action": "upsert",
+    "payload": {
+      "tag": "亚裔",
+      "category": "角色",
+      "keywords": [
+        "アジア",
+        "asian",
+        "亚裔"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-068d713110",
+    "action": "upsert",
+    "payload": {
+      "tag": "人外",
+      "category": "角色",
+      "keywords": [
+        "demihuman",
+        "monster",
+        "人外",
+        "异形"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2e55e7bded",
+    "action": "upsert",
+    "payload": {
+      "tag": "人妻",
+      "category": "角色",
+      "keywords": [
+        "若妻",
+        "married woman",
+        "young wife",
+        "housewife",
+        "老婆",
+        "妻子",
+        "太太",
+        "奥様",
+        "妻",
+        "熟女",
+        "人妻",
+        "年轻妻子",
+        "young housewife",
+        "若奥様",
+        "既婚",
+        "wife",
+        "主婦",
+        "milf",
+        "主妇",
+        "少妇"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-984ec92e80",
+    "action": "upsert",
+    "payload": {
+      "tag": "人鱼",
+      "category": "角色",
+      "keywords": [
+        "マーメイド",
+        "人鱼",
+        "美人鱼",
+        "mermaid"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-493bce3e0f",
+    "action": "upsert",
+    "payload": {
+      "tag": "伪娘",
+      "category": "角色",
+      "keywords": [
+        "画女硬说男",
+        "男の娘",
+        "femboy",
+        "女装",
+        "crossdress",
+        "crossdresser",
+        "伪娘",
+        "ニューハーフ",
+        "女装人妖",
+        "女装男子",
+        "人妖",
+        "男娘",
+        "trap"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7eac3d4db8",
+    "action": "upsert",
+    "payload": {
+      "tag": "俄罗斯",
+      "category": "角色",
+      "keywords": [
+        "俄罗斯",
+        "russian",
+        "ロシア"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0c62696565",
+    "action": "upsert",
+    "payload": {
+      "tag": "保姆",
+      "category": "角色",
+      "keywords": [
+        "ベビーシッター",
+        "babysitter",
+        "保姆",
+        "nanny",
+        "家政婦"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-974d8c7e28",
+    "action": "upsert",
+    "payload": {
+      "tag": "保安",
+      "category": "角色",
+      "keywords": [
+        "警備員",
+        "门卫",
+        "保安",
+        "security guard"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-31f6562376",
+    "action": "upsert",
+    "payload": {
+      "tag": "修女",
+      "category": "角色",
+      "keywords": [
+        "nun",
+        "シスター",
+        "修女"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cf73e8c847",
+    "action": "upsert",
+    "payload": {
+      "tag": "偶像",
+      "category": "角色",
+      "keywords": [
+        "女明星",
+        "idol",
+        "芸能人",
+        "地下偶像",
+        "アイドル",
+        "网红",
+        "celebrity",
+        "偶像"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b813f1e8c6",
+    "action": "upsert",
+    "payload": {
+      "tag": "公关",
+      "category": "角色",
+      "keywords": [
+        "hostess",
+        "キャバ嬢",
+        "ホステス",
+        "公关",
+        "陪酒"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-19af6383df",
+    "action": "upsert",
+    "payload": {
+      "tag": "兽人",
+      "category": "角色",
+      "keywords": [
+        "orc",
+        "兽人",
+        "半兽人",
+        "オーク"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5a2c47ec14",
+    "action": "upsert",
+    "payload": {
+      "tag": "兽耳娘",
+      "category": "角色",
+      "keywords": [
+        "cat girl",
+        "catgirl",
+        "ケモミミ",
+        "兔娘",
+        "狐娘",
+        "犬娘",
+        "猫耳",
+        "kemonomimi",
+        "猫耳女",
+        "兽耳娘",
+        "猫娘"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bd13a76c41",
+    "action": "upsert",
+    "payload": {
+      "tag": "前台",
+      "category": "角色",
+      "keywords": [
+        "受付嬢",
+        "受付",
+        "前台",
+        "receptionist",
+        "接待员"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6d7c1afb07",
+    "action": "upsert",
+    "payload": {
+      "tag": "医生",
+      "category": "角色",
+      "keywords": [
+        "医生",
+        "医師",
+        "doctor",
+        "医者"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f0013374b2",
+    "action": "upsert",
+    "payload": {
+      "tag": "印度",
+      "category": "角色",
+      "keywords": [
+        "印度",
+        "indian",
+        "インド"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-899327e777",
+    "action": "upsert",
+    "payload": {
+      "tag": "双胞胎",
+      "category": "角色",
+      "keywords": [
+        "双子",
+        "多胞胎",
+        "姐妹花",
+        "twins",
+        "双胞胎"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3a1ff305f3",
+    "action": "upsert",
+    "payload": {
+      "tag": "同事",
+      "category": "角色",
+      "keywords": [
+        "colleague",
+        "同僚",
+        "同事",
+        "coworker"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-026ecbe1ff",
+    "action": "upsert",
+    "payload": {
+      "tag": "同桌",
+      "category": "角色",
+      "keywords": [
+        "同級生",
+        "classmate",
+        "同桌",
+        "女同桌",
+        "クラスメイト"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-75c040fcc2",
+    "action": "upsert",
+    "payload": {
+      "tag": "吸血鬼",
+      "category": "角色",
+      "keywords": [
+        "ヴァンパイア",
+        "vampire",
+        "吸血鬼"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cde8a743d3",
+    "action": "upsert",
+    "payload": {
+      "tag": "处男",
+      "category": "角色",
+      "keywords": [
+        "virgin boy",
+        "童貞",
+        "童贞",
+        "处男"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d31e1a1dcf",
+    "action": "upsert",
+    "payload": {
+      "tag": "外围",
+      "category": "角色",
+      "keywords": [
+        "escort",
+        "伴游",
+        "网黄",
+        "sugar baby",
+        "愛人",
+        "高級デリヘル",
+        "high-end escort",
+        "外围",
+        "camgirl",
+        "福利姬",
+        "外围女"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f2ecce5ee8",
+    "action": "upsert",
+    "payload": {
+      "tag": "大小姐",
+      "category": "角色",
+      "keywords": [
+        "千金",
+        "rich girl",
+        "富家女",
+        "大小姐",
+        "ojou",
+        "お嬢様"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3b59424d6e",
+    "action": "upsert",
+    "payload": {
+      "tag": "女上司",
+      "category": "角色",
+      "keywords": [
+        "female boss",
+        "女总裁",
+        "老板娘",
+        "女上司",
+        "社長",
+        "女老板",
+        "boss",
+        "manager"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-21b6971a31",
+    "action": "upsert",
+    "payload": {
+      "tag": "女下属",
+      "category": "角色",
+      "keywords": [
+        "新进员工",
+        "女下属",
+        "新入社員",
+        "女部下",
+        "female subordinate",
+        "subordinate",
+        "部下",
+        "实习生"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-0b9813eded",
+    "action": "upsert",
+    "payload": {
+      "tag": "女主播",
+      "category": "角色",
+      "keywords": [
+        "broadcaster",
+        "主播",
+        "vtuber",
+        "女主播",
+        "配信者",
+        "ライバー",
+        "直播主",
+        "streamer"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b5672985a1",
+    "action": "upsert",
+    "payload": {
+      "tag": "女仆",
+      "category": "角色",
+      "keywords": [
+        "女佣",
+        "保姆",
+        "maid",
+        "housekeeper",
+        "メイド",
+        "家政婦",
+        "女仆"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8616cdb4e2",
+    "action": "upsert",
+    "payload": {
+      "tag": "女军官",
+      "category": "角色",
+      "keywords": [
+        "軍服",
+        "女军官",
+        "military",
+        "军装",
+        "military uniform",
+        "軍人"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5b2867b14b",
+    "action": "upsert",
+    "payload": {
+      "tag": "女医生",
+      "category": "角色",
+      "keywords": [
+        "女医",
+        "female doctor",
+        "牙医",
+        "女医生",
+        "doctor"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3457f2a226",
+    "action": "upsert",
+    "payload": {
+      "tag": "女教师",
+      "category": "角色",
+      "keywords": [
+        "女教師",
+        "女教师",
+        "female teacher"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-de6a943bde",
+    "action": "upsert",
+    "payload": {
+      "tag": "女演员",
+      "category": "角色",
+      "keywords": [
+        "演员",
+        "actor",
+        "役者",
+        "女演员",
+        "actress"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2cdacb94c2",
+    "action": "upsert",
+    "payload": {
+      "tag": "女王",
+      "category": "角色",
+      "keywords": [
+        "domina",
+        "女王様",
+        "queen",
+        "女王"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6022af9a81",
+    "action": "upsert",
+    "payload": {
+      "tag": "女警",
+      "category": "角色",
+      "keywords": [
+        "女警",
+        "婦警",
+        "警花",
+        "policewoman"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-66e1301211",
+    "action": "upsert",
+    "payload": {
+      "tag": "女骑士",
+      "category": "角色",
+      "keywords": [
+        "女剑士",
+        "女骑士",
+        "女騎士",
+        "knight",
+        "战败女骑士"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-74bc4160ff",
+    "action": "upsert",
+    "payload": {
+      "tag": "娼妓",
+      "category": "角色",
+      "keywords": [
+        "whore",
+        "娼妓",
+        "小姐",
+        "妓女",
+        "娼婦",
+        "miss",
+        "お嬢様",
+        "売春婦",
+        "prostitute"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7c39ca00a5",
+    "action": "upsert",
+    "payload": {
+      "tag": "学妹",
+      "category": "角色",
+      "keywords": [
+        "小学妹",
+        "学妹",
+        "后辈",
+        "junior",
+        "後輩"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-6337e2cb18",
+    "action": "upsert",
+    "payload": {
+      "tag": "学姐",
+      "category": "角色",
+      "keywords": [
+        "女学姐",
+        "前辈",
+        "先輩",
+        "学姐",
+        "senior"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-35d9969dfa",
+    "action": "upsert",
+    "payload": {
+      "tag": "学生",
+      "category": "角色",
+      "keywords": [
+        "student",
+        "生徒",
+        "大学生",
+        "学生",
+        "女子大生",
+        "女学生",
+        "coed",
+        "留学生"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-b42e2f62c6",
+    "action": "upsert",
+    "payload": {
+      "tag": "家教",
+      "category": "角色",
+      "keywords": [
+        "家庭教师",
+        "私教",
+        "tutor",
+        "家庭教師",
+        "家教",
+        "カテキョ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e8d61523f1",
+    "action": "upsert",
+    "payload": {
+      "tag": "对魔忍",
+      "category": "角色",
+      "keywords": [
+        "taimanin",
+        "对魔忍",
+        "対魔忍"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-303a716b09",
+    "action": "upsert",
+    "payload": {
+      "tag": "巫女",
+      "category": "角色",
+      "keywords": [
+        "shrine maiden",
+        "巫女"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bd2bfccff1",
+    "action": "upsert",
+    "payload": {
+      "tag": "店员",
+      "category": "角色",
+      "keywords": [
+        "店员",
+        "salesgirl",
+        "售货员",
+        "バイト",
+        "clerk",
+        "shop assistant",
+        "店員",
+        "打工妹"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d699b25d75",
+    "action": "upsert",
+    "payload": {
+      "tag": "技师",
+      "category": "角色",
+      "keywords": [
+        "按摩师",
+        "masseur",
+        "マッサージ師",
+        "采耳师",
+        "技师",
+        "风俗娘",
+        "masseuse",
+        "洗脚妹"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f12b8cc82e",
+    "action": "upsert",
+    "payload": {
+      "tag": "护士",
+      "category": "角色",
+      "keywords": [
+        "白衣天使",
+        "ナース",
+        "护士",
+        "女护士",
+        "nurse",
+        "看護師",
+        "看護婦"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bbfe31db13",
+    "action": "upsert",
+    "payload": {
+      "tag": "拉丁",
+      "category": "角色",
+      "keywords": [
+        "latina",
+        "ラテン",
+        "拉丁"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f1fe62ed7b",
+    "action": "upsert",
+    "payload": {
+      "tag": "拉拉队长",
+      "category": "角色",
+      "keywords": [
+        "チアガール",
+        "チアリーダー",
+        "拉拉队长",
+        "cheerleader"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d57b6f2f5a",
+    "action": "upsert",
+    "payload": {
+      "tag": "教师",
+      "category": "角色",
+      "keywords": [
+        "女教師",
+        "professor",
+        "女教师",
+        "teacher",
+        "教师",
+        "女导师",
+        "老师",
+        "先生"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4dd3dfdbaa",
+    "action": "upsert",
+    "payload": {
+      "tag": "教练",
+      "category": "角色",
+      "keywords": [
+        "coach",
+        "教练",
+        "コーチ",
+        "trainer",
+        "インストラクター"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-356f52e9c6",
+    "action": "upsert",
+    "payload": {
+      "tag": "新娘",
+      "category": "角色",
+      "keywords": [
+        "花嫁",
+        "新娘",
+        "bride"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-2483fcb35b",
+    "action": "upsert",
+    "payload": {
+      "tag": "未亡人",
+      "category": "角色",
+      "keywords": [
+        "未亡人",
+        "寡妇",
+        "widow"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-097bf3aa59",
+    "action": "upsert",
+    "payload": {
+      "tag": "楼凤",
+      "category": "角色",
+      "keywords": [
+        "brothel",
+        "楼凤",
+        "call girl",
+        "風俗嬢",
+        "デリヘル",
+        "出張ヘルス",
+        "prostitute"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cd9667df62",
+    "action": "upsert",
+    "payload": {
+      "tag": "母乳",
+      "category": "角色",
+      "keywords": [
+        "母乳",
+        "lactation"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-955d77c463",
+    "action": "upsert",
+    "payload": {
+      "tag": "男M",
+      "category": "角色",
+      "keywords": [
+        "masochist",
+        "マゾ",
+        "男M",
+        "抖M男",
+        "受虐男",
+        "masochist",
+        "マゾ男",
+        "M男",
+        "男奴"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-955d77c464",
+    "action": "upsert",
+    "payload": {
+      "tag": "女M",
+      "category": "角色",
+      "keywords": [
+        "女M",
+        "抖M女",
+        "受虐女",
+        "masochist",
+        "マゾ女",
+        "M女",
+        "女奴",
+        "性奴",
+        "抖M",
+        "母犬"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-955d77c471",
+    "action": "upsert",
+    "payload": {
+      "tag": "NTRS",
+      "category": "剧情",
+      "keywords": [
+        "NTRS",
+        "献妻",
+        "寝取らせ",
+        "绿帽癖",
+        "共享妻子",
+        "送女",
+        "hotwife",
+        "夫妻主",
+        "绿主",
+        "托卵",
+        "喜当爹",
+        "cuckoo",
+        "借腹生子",
+        "别人的种",
+        "孕ませ",
+        "cuckold fetish"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8971d21519",
+    "action": "upsert",
+    "payload": {
+      "tag": "男公关",
+      "category": "角色",
+      "keywords": [
+        "少爷",
+        "男公关",
+        "牛郎",
+        "host",
+        "ホスト"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f7c145efc7",
+    "action": "upsert",
+    "payload": {
+      "tag": "痴女",
+      "category": "角色",
+      "keywords": [
+        "nympho",
+        "痴女",
+        "nymphomaniac"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ad5ea3bfeb",
+    "action": "upsert",
+    "payload": {
+      "tag": "白人",
+      "category": "角色",
+      "keywords": [
+        "white",
+        "白人"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a94fb19529",
+    "action": "upsert",
+    "payload": {
+      "tag": "碧池",
+      "category": "角色",
+      "keywords": [
+        "碧池",
+        "贱货",
+        "bitch",
+        "ビッチ",
+        "骚货"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f8962c5037",
+    "action": "upsert",
+    "payload": {
+      "tag": "福利姬",
+      "category": "角色",
+      "keywords": [
+        "パパ活",
+        "ネットアイドル",
+        "コスプレイヤー",
+        "camgirl",
+        "福利姬",
+        "e-girl",
+        "网黄"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cafefe9c15",
+    "action": "upsert",
+    "payload": {
+      "tag": "秘书",
+      "category": "角色",
+      "keywords": [
+        "小秘书",
+        "秘書",
+        "秘书",
+        "secretary",
+        "女秘书"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c9c4557447",
+    "action": "upsert",
+    "payload": {
+      "tag": "空姐",
+      "category": "角色",
+      "keywords": [
+        "空乘",
+        "スチュワーデス",
+        "空姐",
+        "flight attendant",
+        "stewardess",
+        "CA"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d2c5601e80",
+    "action": "upsert",
+    "payload": {
+      "tag": "精灵",
+      "category": "角色",
+      "keywords": [
+        "精灵",
+        "エルフ",
+        "elf"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5f15862ac0",
+    "action": "upsert",
+    "payload": {
+      "tag": "糖爹",
+      "category": "角色",
+      "keywords": [
+        "パパ",
+        "パパ活",
+        "sugar daddy",
+        "干爹",
+        "糖爹"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-447c469e32",
+    "action": "upsert",
+    "payload": {
+      "tag": "素人",
+      "category": "角色",
+      "keywords": [
+        "パンピー",
+        "amateur",
+        "初见",
+        "真实",
+        "普通人",
+        "路人",
+        "一般人",
+        "素人"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-77670f88b8",
+    "action": "upsert",
+    "payload": {
+      "tag": "绿奴",
+      "category": "角色",
+      "keywords": [
+        "cuckold slave",
+        "cuckquean",
+        "寝取られ奴隷",
+        "绿奴"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7e668e496f",
+    "action": "upsert",
+    "payload": {
+      "tag": "绿茶",
+      "category": "角色",
+      "keywords": [
+        "心机女",
+        "绿茶",
+        "manipulative",
+        "绿茶婊",
+        "汉子茶"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e3a081e25a",
+    "action": "upsert",
+    "payload": {
+      "tag": "网红",
+      "category": "角色",
+      "keywords": [
+        "网红",
+        "インフルエンサー",
+        "influencer"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-973f1487a3",
+    "action": "upsert",
+    "payload": {
+      "tag": "老鸨",
+      "category": "角色",
+      "keywords": [
+        "madam",
+        "pimp",
+        "老鸨",
+        "やり手婆",
+        "ママさん"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-8d5e82acde",
+    "action": "upsert",
+    "payload": {
+      "tag": "苦主",
+      "category": "角色",
+      "keywords": [
+        "cuckold",
+        "寝取られ男",
+        "苦主",
+        "cuckold victim"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4f1b3d82b9",
+    "action": "upsert",
+    "payload": {
+      "tag": "触手",
+      "category": "角色",
+      "keywords": [
+        "触手怪",
+        "tentacles",
+        "触手"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-90dbc2269e",
+    "action": "upsert",
+    "payload": {
+      "tag": "车掌小姐",
+      "category": "角色",
+      "keywords": [
+        "车掌小姐",
+        "bus guide",
+        "バスガイド"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-563e9ede3f",
+    "action": "upsert",
+    "payload": {
+      "tag": "辣妈",
+      "category": "角色",
+      "keywords": [
+        "hot mom",
+        "性感妈妈",
+        "milf",
+        "辣妈"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-15b723b6a3",
+    "action": "upsert",
+    "payload": {
+      "tag": "运动员",
+      "category": "角色",
+      "keywords": [
+        "athlete",
+        "运动员",
+        "アスリート"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-ba490e86d5",
+    "action": "upsert",
+    "payload": {
+      "tag": "邻居",
+      "category": "角色",
+      "keywords": [
+        "邻居",
+        "隣人",
+        "neighbor"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e9bed3ab67",
+    "action": "upsert",
+    "payload": {
+      "tag": "青梅竹马",
+      "category": "角色",
+      "keywords": [
+        "childhood friend",
+        "幼驯染",
+        "发小",
+        "幼馴染",
+        "青梅竹马"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-c5527b735b",
+    "action": "upsert",
+    "payload": {
+      "tag": "风俗娘",
+      "category": "角色",
+      "keywords": [
+        "風俗",
+        "小姐",
+        "风俗",
+        "楼凤",
+        "流莺",
+        "whore",
+        "妓女",
+        "pink salon",
+        "風俗嬢",
+        "娼婦",
+        "デリヘル",
+        "hooker",
+        "风俗娘",
+        "sex service",
+        "修车",
+        "prostitute",
+        "sex worker"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f0c88f3cfa",
+    "action": "upsert",
+    "payload": {
+      "tag": "魅魔",
+      "category": "角色",
+      "keywords": [
+        "梦魔",
+        "succubus",
+        "魅魔",
+        "サキュバス"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-e4abc78c0c",
+    "action": "upsert",
+    "payload": {
+      "tag": "魔女",
+      "category": "角色",
+      "keywords": [
+        "魔女",
+        "witch",
+        "女巫"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d3752b195a",
+    "action": "upsert",
+    "payload": {
+      "tag": "魔法少女",
+      "category": "角色",
+      "keywords": [
+        "魔法少女",
+        "magical girl"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-56c40908fc",
+    "action": "upsert",
+    "payload": {
+      "tag": "魔物娘",
+      "category": "角色",
+      "keywords": [
+        "モンスター娘",
+        "魔物娘",
+        "monster girl"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-3e232c8428",
+    "action": "upsert",
+    "payload": {
+      "tag": "黄毛",
+      "category": "角色",
+      "keywords": [
+        "間男",
+        "netori",
+        "黄毛",
+        "bull",
+        "金髪",
+        "interloper"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-a86e99301c",
+    "action": "upsert",
+    "payload": {
+      "tag": "黑人",
+      "category": "角色",
+      "keywords": [
+        "黒人",
+        "ebony",
+        "black",
+        "黑人"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-d32d0b30b6",
+    "action": "upsert",
+    "payload": {
+      "tag": "黑人BBC",
+      "category": "角色",
+      "keywords": [
+        "黑人BBC",
+        "BBC",
+        "big black cock",
+        "黑人巨根"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-116f0a6572",
+    "action": "upsert",
+    "payload": {
+      "tag": "黑帮",
+      "category": "角色",
+      "keywords": [
+        "极道",
+        "黑社会",
+        "yakuza",
+        "黑帮",
+        "極道"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-53af11908f",
+    "action": "upsert",
+    "payload": {
+      "tag": "乳夹",
+      "category": "道具",
+      "keywords": [
+        "nipple clamps",
+        "乳夹",
+        "乳首責め",
+        "乳首クリップ"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-cafab687b5",
+    "action": "upsert",
+    "payload": {
+      "tag": "假阳具",
+      "category": "道具",
+      "keywords": [
+        "dildo",
+        "ディルド",
+        "假阳具"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-bb1c8cd5ad",
+    "action": "upsert",
+    "payload": {
+      "tag": "催淫药",
+      "category": "道具",
+      "keywords": [
+        "aphrodisiac",
+        "我爱一条柴",
+        "催淫药",
+        "春药",
+        "发情药",
+        "媚薬"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-eb169d7404",
+    "action": "upsert",
+    "payload": {
+      "tag": "双头龙",
+      "category": "道具",
+      "keywords": [
+        "双头假阳具",
+        "double dildo",
+        "双头龙",
+        "ダブルディルド"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-4b259baa8b",
+    "action": "upsert",
+    "payload": {
+      "tag": "口塞",
+      "category": "道具",
+      "keywords": [
+        "ball gag",
+        "ボールギャグ",
+        "猿ぐつわ",
+        "gag",
+        "口塞",
+        "猿轡",
+        "口枷"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-15c2cb6823",
+    "action": "upsert",
+    "payload": {
+      "tag": "情趣玩具",
+      "category": "道具",
+      "keywords": [
+        "大人のおもちゃ",
+        "情趣玩具",
+        "sex toy",
+        "sex toys"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-54f7397f98",
+    "action": "upsert",
+    "payload": {
+      "tag": "手套",
+      "category": "道具",
+      "keywords": [
+        "leather gloves",
+        "皮手套",
+        "手套",
+        "革手袋",
+        "gloves",
+        "手袋"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-524a3fd7c7",
+    "action": "upsert",
+    "payload": {
+      "tag": "按摩棒",
+      "category": "道具",
+      "keywords": [
+        "跳蛋",
+        "電マ",
+        "vibrator",
+        "魔法棒",
+        "hitachi wand",
+        "震动棒",
+        "バイブ",
+        "按摩棒",
+        "sybian",
+        "机震",
+        "wand",
+        "massager"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-fe6df48685",
+    "action": "upsert",
+    "payload": {
+      "tag": "春药",
+      "category": "道具",
+      "keywords": [
+        "drugs",
+        "aphrodisiac",
+        "薬物",
+        "药物",
+        "春药",
+        "媚薬"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-24e934d1f0",
+    "action": "upsert",
+    "payload": {
+      "tag": "束缚具",
+      "category": "道具",
+      "keywords": [
+        "束缚具",
+        "harness",
+        "束缚带",
+        "bondage gear",
+        "拘束具"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5d2da2273a",
+    "action": "upsert",
+    "payload": {
+      "tag": "皮鞭",
+      "category": "道具",
+      "keywords": [
+        "鞭",
+        "whip",
+        "皮鞭"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-20b1a4f8b2",
+    "action": "upsert",
+    "payload": {
+      "tag": "眼罩",
+      "category": "道具",
+      "keywords": [
+        "blindfold",
+        "眼罩",
+        "目隠し"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-19d6fc02cb",
+    "action": "upsert",
+    "payload": {
+      "tag": "穿戴假阳具",
+      "category": "道具",
+      "keywords": [
+        "strap-on",
+        "穿戴假阳具",
+        "假老二",
+        "ペニスバンド"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1074a9b649",
+    "action": "upsert",
+    "payload": {
+      "tag": "肛塞",
+      "category": "道具",
+      "keywords": [
+        "アナルプラグ",
+        "后庭塞",
+        "butt plug",
+        "肛塞"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7d7eb8e6a4",
+    "action": "upsert",
+    "payload": {
+      "tag": "肛塞尾巴",
+      "category": "道具",
+      "keywords": [
+        "肛塞尾巴",
+        "尻尾プラグ",
+        "butt plug tail",
+        "兽尾"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-31bbd408f7",
+    "action": "upsert",
+    "payload": {
+      "tag": "蜡烛",
+      "category": "道具",
+      "keywords": [
+        "ろうそく",
+        "candle",
+        "蜡烛",
+        "蝋燭"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1d665d53f2",
+    "action": "upsert",
+    "payload": {
+      "tag": "贞操带",
+      "category": "道具",
+      "keywords": [
+        "貞操帯",
+        "贞操带",
+        "chastity belt",
+        "贞操锁",
+        "chastity cage"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-1c5d480a87",
+    "action": "upsert",
+    "payload": {
+      "tag": "跳蛋",
+      "category": "道具",
+      "keywords": [
+        "vibe egg",
+        "跳蛋",
+        "vibrating egg",
+        "vibrator",
+        "ローター"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-f5b40931fd",
+    "action": "upsert",
+    "payload": {
+      "tag": "避孕套",
+      "category": "道具",
+      "keywords": [
+        "安全套",
+        "condom",
+        "避孕套",
+        "rubber",
+        "コンドーム"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-5024fccb69",
+    "action": "upsert",
+    "payload": {
+      "tag": "项圈",
+      "category": "道具",
+      "keywords": [
+        "眼罩",
+        "blindfold",
+        "straitjacket",
+        "项圈",
+        "口球",
+        "チョーカー",
+        "目隠し",
+        "choker",
+        "首輪",
+        "collar",
+        "拘束服",
+        "颈链",
+        "狗链"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  },
+  {
+    "kind": "lexicon",
+    "id": "lexicon-7a9cd6ab5c",
+    "action": "upsert",
+    "payload": {
+      "tag": "飞机杯",
+      "category": "道具",
+      "keywords": [
+        "名器",
+        "名器证明",
+        "fleshlight",
+        "オナホール",
+        "飞机杯"
+      ],
+      "weight": 1.0,
+      "types": [
+        "video",
+        "novel",
+        "community",
+        "comic"
+      ]
+    }
+  }
+  ]
+}
