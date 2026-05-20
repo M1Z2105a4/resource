@@ -1,0 +1,37 @@
+{
+  "schema": "ghost.subscription.bundle",
+  "version": "1.0.0",
+  "bundleId": "ghost.subscription.community",
+  "title": "论坛源",
+  "revision": 1,
+  "updatedAt": "2026-05-20T00:00:00Z",
+  "ttlHours": 168,
+  "defaultConflictPolicy": "bundleWins",
+  "resources": [
+    {
+      "kind": "site",
+      "id": "site:t66y-community",
+      "action": "upsert",
+      "payload": {
+        "id": "0cb3d0ff-e958-4474-92e2-70ff6adea416",
+        "name": "草榴社区",
+        "urlTemplate": "https://t66y.com/thread0806.php?fid=16&search={k}",
+        "isEnabled": true,
+        "targetType": "community",
+        "parserType": "html",
+        "method": "GET",
+        "pageTemplate": "https://t66y.com/thread0806.php?fid=16&search=&page={page}",
+        "pageParamName": "page",
+        "pageStart": 1,
+        "pageCount": 15,
+        "listSelector": "#tbody > tr.tr3.t_one.tac",
+        "titleSelector": "td.tal > h3 > a",
+        "linkSelector": "td.tal > h3 > a",
+        "authorSelector": "td:nth-child(3) > a.bl",
+        "replyCountSelector": "td:nth-child(4)",
+        "timestampSelector": "td:nth-child(3) .f12 > span",
+        "origin": "shared"
+      }
+    }
+  ]
+}
