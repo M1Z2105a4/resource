@@ -1,0 +1,106 @@
+{
+  "schema": "ghost.subscription.bundle",
+  "version": "1.0.0",
+  "bundleId": "ghost.subscription.adult-community-extra",
+  "title": "论坛源 Extra",
+  "revision": 1,
+  "updatedAt": "2026-05-20T00:00:00Z",
+  "ttlHours": 168,
+  "defaultConflictPolicy": "bundleWins",
+  "resources": [
+    {
+      "kind": "site",
+      "id": "site:planetsuzy-community",
+      "action": "upsert",
+      "payload": {
+        "id": "fef7c4a8-9246-4880-9b81-055bfa73cb3b",
+        "name": "PlanetSuzy",
+        "urlTemplate": "https://www.planetsuzy.org/search.php?do=process&query={k}",
+        "isEnabled": true,
+        "targetType": "community",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 1,
+        "origin": "shared",
+        "listSelector": "@xpath://table[@id='threadslist']//tr[.//td[starts-with(@id, 'td_threadtitle_')]]",
+        "titleSelector": "a[id^=\"thread_title_\"]",
+        "linkSelector": "a[id^=\"thread_title_\"]",
+        "authorSelector": "td[id^=\"td_threadtitle_\"] .smallfont span[onclick]",
+        "replyCountSelector": "td:nth-child(5)",
+        "timestampSelector": "td:nth-child(4) .smallfont"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:52av-community-search",
+      "action": "upsert",
+      "payload": {
+        "id": "d9496454-57d3-4ab0-a30e-dea24d4c1bee",
+        "name": "52AV",
+        "urlTemplate": "https://www.52av.one/search.php?mod=forum&searchsubmit=yes&srchtxt={k}",
+        "isEnabled": true,
+        "targetType": "community",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 1,
+        "origin": "shared",
+        "listSelector": "li.pbw",
+        "titleSelector": "h3.xs3 a[href*=\"forum.php?mod=viewthread\"]",
+        "linkSelector": "h3.xs3 a[href*=\"forum.php?mod=viewthread\"]",
+        "authorSelector": "p:last-child a[href^=\"space-\"]",
+        "replyCountSelector": "p.xg1",
+        "timestampSelector": "p:last-child span:first-child"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:sehuatang-community-search",
+      "action": "upsert",
+      "payload": {
+        "id": "393f1004-7bd7-4a92-82c0-75a151693d1a",
+        "name": "色花堂",
+        "urlTemplate": "https://www.sehuatang.org/search.php?mod=forum&searchsubmit=yes&srchtxt={k}",
+        "isEnabled": true,
+        "targetType": "community",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 1,
+        "origin": "shared",
+        "listSelector": "li.pbw",
+        "titleSelector": "h3.xs3 a[href*=\"forum.php?mod=viewthread\"]",
+        "linkSelector": "h3.xs3 a[href*=\"forum.php?mod=viewthread\"]",
+        "authorSelector": "p:last-child a[href^=\"space-\"]",
+        "replyCountSelector": "p.xg1",
+        "timestampSelector": "p:last-child span:first-child"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:hjd2048-community-original",
+      "action": "upsert",
+      "payload": {
+        "id": "f291680f-a551-404e-88d4-45630d1d6310",
+        "name": "2048 國內原創",
+        "urlTemplate": "https://hjd2048.com/2048/thread.php?fid=15",
+        "isEnabled": true,
+        "targetType": "community",
+        "parserType": "html",
+        "method": "GET",
+        "pageTemplate": "https://hjd2048.com/2048/thread.php?fid=15&page={page}",
+        "pageParamName": "page",
+        "pageStart": 1,
+        "pageCount": 5,
+        "origin": "shared",
+        "listSelector": "@xpath://table[@id='ajaxtable']//tr[contains(concat(' ', normalize-space(@class), ' '), ' tr3 ')][.//a[contains(concat(' ', normalize-space(@class), ' '), ' subject ') and starts-with(@href, 'read.php?tid=')]][preceding-sibling::tr[contains(concat(' ', normalize-space(@class), ' '), ' tr2 ') and contains(normalize-space(.), '普通主题')]]",
+        "titleSelector": "a.subject[href^=\"read.php?tid=\"]",
+        "linkSelector": "a.subject[href^=\"read.php?tid=\"]",
+        "authorSelector": "td:nth-child(3) a",
+        "replyCountSelector": "td:nth-child(4)",
+        "timestampSelector": "td:nth-child(5)"
+      }
+    }
+  ]
+}
