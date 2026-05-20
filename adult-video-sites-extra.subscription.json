@@ -1,0 +1,190 @@
+{
+  "schema": "ghost.subscription.bundle",
+  "version": "1.0.0",
+  "bundleId": "ghost.subscription.adult-video-sites-extra",
+  "title": "Adult Video Sites Extra",
+  "revision": 1,
+  "updatedAt": "2026-05-20T00:00:00Z",
+  "ttlHours": 168,
+  "defaultConflictPolicy": "bundleWins",
+  "resources": [
+    {
+      "kind": "site",
+      "id": "site:xvideos",
+      "action": "upsert",
+      "payload": {
+        "id": "bc7435f9-1769-4983-a7a8-a947195dbfc0",
+        "name": "XVideos",
+        "urlTemplate": "https://www.xvideos.com/?k={k}&p=0",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 15,
+        "origin": "shared",
+        "pageTemplate": "https://www.xvideos.com/?k={k}&p={page}",
+        "pageParamName": "p",
+        "listSelector": ".frame-block.thumb-block",
+        "titleSelector": ".thumb-under p.title > a[href^=\"/video\"]",
+        "linkSelector": ".thumb-under p.title > a[href^=\"/video\"]",
+        "thumbSelector": ".thumb-inside .thumb a[href^=\"/video\"] img"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:xnxx",
+      "action": "upsert",
+      "payload": {
+        "id": "77a66f24-a0e3-49e9-9560-56f0b232b4fa",
+        "name": "XNXX",
+        "urlTemplate": "https://www.xnxx.com/search/{k}/0",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 15,
+        "origin": "shared",
+        "pageTemplate": "https://www.xnxx.com/search/{k}/{page}",
+        "listSelector": "@xpath://div[contains(concat(' ', normalize-space(@class), ' '), ' thumb-block ')][.//div[contains(concat(' ', normalize-space(@class), ' '), ' thumb-under ')]//a[starts-with(@href, '/video')]]",
+        "titleSelector": ".thumb-under p > a[href^=\"/video\"]",
+        "linkSelector": ".thumb-under p > a[href^=\"/video\"]",
+        "thumbSelector": ".thumb-inside .thumb a[href^=\"/video\"] img"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:porntrex",
+      "action": "upsert",
+      "payload": {
+        "id": "33a9bdee-1242-430e-92c8-434fab3c207a",
+        "name": "PornTrex",
+        "urlTemplate": "https://www.porntrex.com/search/{k}/",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 15,
+        "origin": "shared",
+        "pageTemplate": "https://www.porntrex.com/search/{k}/{page}/",
+        "listSelector": "div.video-preview-screen.video-item.thumb-item[data-item-id]",
+        "titleSelector": "p.inf > a[href*=\"/video/\"]",
+        "linkSelector": "p.inf > a[href*=\"/video/\"]",
+        "thumbSelector": "a.thumb.rotator-screen > img.cover"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:javmost-extra",
+      "action": "upsert",
+      "payload": {
+        "id": "60057709-cc5b-42db-a294-b58424164fca",
+        "name": "JavMost",
+        "urlTemplate": "https://www.javmost.ws/search/{k}/",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 15,
+        "origin": "shared",
+        "pageTemplate": "https://www.javmost.ws/search/{k}/page/{page}/",
+        "listSelector": "#content-update > div.col-md-4.col-sm-6",
+        "titleSelector": ".card-block a[href] > h1.card-title",
+        "linkSelector": ".card-block > a[href]",
+        "thumbSelector": ".thumbnail-container picture img.card-img-top"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:javfree",
+      "action": "upsert",
+      "payload": {
+        "id": "4ab621a0-22a5-4496-8564-d3ef56355a59",
+        "name": "JavFree",
+        "urlTemplate": "https://javfree.me/search/{k}",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 15,
+        "origin": "shared",
+        "pageTemplate": "https://javfree.me/search/{k}/page/{page}",
+        "listSelector": ".content-loop.post-loop > article.hentry",
+        "titleSelector": "h2.entry-title > a[href]",
+        "linkSelector": "h2.entry-title > a[href]",
+        "thumbSelector": "a.thumbnail-link[href] img"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:javdb",
+      "action": "upsert",
+      "payload": {
+        "id": "fef01de6-6616-44ce-8e25-3df1bcf71416",
+        "name": "JavDB",
+        "urlTemplate": "https://javdb.com/search?q={k}&f=all",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 15,
+        "origin": "shared",
+        "pageTemplate": "https://javdb.com/search?q={k}&f=all&page={page}",
+        "pageParamName": "page",
+        "listSelector": ".movie-list .item",
+        "titleSelector": ".video-title",
+        "linkSelector": "a.box[href]",
+        "thumbSelector": ".cover img"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:javdatabase",
+      "action": "upsert",
+      "payload": {
+        "id": "2ee96de3-448c-4f46-85bc-f1cb6f1fb34b",
+        "name": "JAVDatabase",
+        "urlTemplate": "https://www.javdatabase.com/?s={k}",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 15,
+        "origin": "shared",
+        "pageTemplate": "https://www.javdatabase.com/page/{page}/?s={k}",
+        "listSelector": ".card.h-100.borderlesscard",
+        "titleSelector": "p.pcard a.cut-text[href]",
+        "linkSelector": "p.pcard a.cut-text[href]",
+        "thumbSelector": ".movie-cover-thumb img"
+      }
+    },
+    {
+      "kind": "site",
+      "id": "site:javfinder",
+      "action": "upsert",
+      "payload": {
+        "id": "2f0e5c61-3f61-47c3-b206-c61c97b65aab",
+        "name": "JAVFinder",
+        "urlTemplate": "https://javfinder.ai/search/movie/{k}",
+        "isEnabled": true,
+        "targetType": "video",
+        "parserType": "html",
+        "method": "GET",
+        "pageStart": 1,
+        "pageCount": 15,
+        "origin": "shared",
+        "pageTemplate": "https://javfinder.ai/search/movie/{k}/page/{page}",
+        "listSelector": "article.thumb-block.full-width",
+        "titleSelector": "h4.entry-name",
+        "linkSelector": "a[href]",
+        "thumbSelector": ".post-thumbnail img"
+      }
+    }
+  ]
+}
